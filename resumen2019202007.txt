@@ -1,0 +1,1013 @@
+FOOD	2019-10-30	Wednesday	21:50	1310	34 gr kofler	
+GLUC	2019-10-30	Wednesday	23:18	1398	94	
+FOOD	2019-10-30	Wednesday	23:30	1410	Cerveza lata, lays 95	
+GLUC	2019-10-31	Thursday	10:26	626	110	
+FOOD	2019-10-31	Thursday	13:45	825	Atun, agua, ensalada	
+DRUG	2019-10-31	Thursday	14:00	840	DIAF	
+FOOD	2019-10-31	Thursday	15:43	943	Budin, bizcocho jamon, coca light*n*	
+GLUC	2019-10-31	Thursday	19:29	1169	82	
+FOOD	2019-10-31	Thursday	21:03	1263	34 gr, kofler, pan con queso crema, lays 95 gr	
+DRUG	2019-10-31	Thursday	21:05	1265	DIAF	
+DRUG	2019-10-31	Thursday	21:05	1265	NOVONORM	
+FOOD	2019-11-01	Friday	2:30:00 PM	150	3 empanadas, coca light	
+DRUG	2019-11-01	Friday	3:30	210	DIAF	
+FOOD	2019-11-01	Friday	4:00	240	Empa ada, coca light, galleta bombo	
+DRUG	2019-11-01	Friday	8:26	506	DIARIS	
+FOOD	2019-11-01	Friday	23:46	1426	1 cerveza peq, tacos, cumpl cesar	
+DRUG	2019-11-02	Saturday	2:00	120	DIAF	
+DRUG	2019-11-02	Saturday	2:00	120	MICARDIS	
+DRUG	2019-11-02	Saturday	2:00	120	CRESTOR	
+DRUG	2019-11-02	Saturday	2:00	120	LORATADINA	
+GLUC	2019-11-02	Saturday	11:12	672	107	
+GLUC	2019-11-02	Saturday	11:12	672	104	
+FOOD	2019-11-02	Saturday	23:13	1393	2 huevos, pan, chocolight	
+FOOD	2019-11-02	Saturday	23:13	1393	Raviolis,pan,leche	
+DRUG	2019-11-02	Saturday	23:13	1393	DIAF	
+DRUG	2019-11-02	Saturday	23:13	1393	NOVONORM	
+DRUG	2019-11-02	Saturday	23:13	1393	MICARDIS	
+DRUG	2019-11-02	Saturday	23:13	1393	CRESTOR	
+DRUG	2019-11-02	Saturday	23:13	1393	LORATADINA	
+GLUC	2019-11-03	Sunday	11:20	680	112	
+GLUC	2019-11-03	Sunday	11:20	680	112	
+GLUC	2019-11-03	Sunday	11:20	680	112	
+FOOD	2019-11-03	Sunday	11:35	695	2 huevos, pan con queso crema, chicolight	
+DRUG	2019-11-03	Sunday	11:35	695	DIAF	
+DRUG	2019-11-03	Sunday	11:35	695	DIARIS	
+FOOD	2019-11-03	Sunday	21:46	1306	Galletas toddy, chocolight	
+DRUG	2019-11-03	Sunday	23:21	1401	DIAF	
+DRUG	2019-11-03	Sunday	23:21	1401	MICARDIS	
+DRUG	2019-11-03	Sunday	23:21	1401	LORATADINA	
+DRUG	2019-11-03	Sunday	23:21	1401	CRESTOR	
+GLUC	2019-11-04	Monday	8:21	501	110	
+FOOD	2019-11-04	Monday	14:45	885	Atun, agua, ensalada	
+DRUG	2019-11-04	Monday	15:36	936	DIAF	
+GLUC	2019-11-04	Monday	18:56	1136	84	
+FOOD	2019-11-04	Monday	21:52	1312	2 empanadas, leche	
+DRUG	2019-11-04	Monday	21:53	1313	DIAF	
+DRUG	2019-11-04	Monday	21:53	1313	MICARDIS	
+DRUG	2019-11-04	Monday	21:53	1313	CRESTOR	
+DRUG	2019-11-04	Monday	21:53	1313	LORATADINA	
+GLUC	2019-11-05	Tuesday	8:08	488	121	
+DRUG	2019-11-05	Tuesday	8:14	494	DIARIS	
+FOOD	2019-11-05	Tuesday	13:30	810	Atun, agua, ensalada	
+FOOD	2019-11-05	Tuesday	16:34	994	Torta chocolate chica, coca licht, nombom	
+GLUC	2019-11-05	Tuesday	20:01	1201	82	
+FOOD	2019-11-05	Tuesday	22:00	1320	3 biCochos, collet bombom	
+FOOD	2019-11-05	Tuesday	23:30	1410	Ce4veza lata peq, lays 95	
+DRUG	2019-11-06	Wednesday	7:51	471	DIARIS	
+GLUC	2019-11-06	Wednesday	7:52	472	109	
+FOOD	2019-11-06	Wednesday	12:44	764	Atun, ensalDa, agua	
+DRUG	2019-11-06	Wednesday	14:10	850	DIAF	
+FOOD	2019-11-06	Wednesday	16:05	965	Collet, todtica chocolate, galleta bombom	
+GLUC	2019-11-06	Wednesday	21:47	1307	90	
+FOOD	2019-11-06	Wednesday	23:30	1410	2 cervezas, 2 lays 95	
+GLUC	2019-11-07	Thursday	8:15	495	124	
+FOOD	2019-11-07	Thursday	9:30	570	4 bizcochos, collet bombom	
+FOOD	2019-11-07	Thursday	11:30	690	Cerveza lata, lAts 150	
+FOOD	2019-11-07	Thursday	12:45	765	Atun, ensalada, agua	
+DRUG	2019-11-07	Thursday	20:00	1200	DIAF	
+FOOD	2019-11-07	Thursday	20:00	1200	Tortica chocolate, galleta bombon, coca light	
+FOOD	2019-11-07	Thursday	22:05	1325	Creps jamon y queso	
+DRUG	2019-11-07	Thursday	22:05	1325	DIAF	
+DRUG	2019-11-07	Thursday	22:05	1325	NOVONORM	
+DRUG	2019-11-07	Thursday	22:05	1325	MICARDIS	
+DRUG	2019-11-07	Thursday	22:05	1325	CRESTOR	
+DRUG	2019-11-07	Thursday	22:05	1325	LORATADINA	
+GLUC	2019-11-08	Friday	7:48	468	104	
+DRUG	2019-11-08	Friday	7:54	474	DIARIS	
+FOOD	2019-11-08	Friday	12:45	765	milanesa p[ollo, papas fritas, coca light 300 cc*n*	
+DRUG	2019-11-08	Friday	13:29	809	DIAF	
+FOOD	2019-11-08	Friday	16:00	960	galleta chocolate cond ulce de leche, coca light 300 cc*n*	
+FOOD	2019-11-08	Friday	21:45	1305	Creps, pan, leche	
+DRUG	2019-11-08	Friday	21:45	1305	DIAF	
+DRUG	2019-11-08	Friday	21:45	1305	NOVONORM	
+DRUG	2019-11-08	Friday	21:45	1305	CRESTOR	
+FOOD	2019-11-08	Friday	23:12	1392	Cerveza, lays 150*n*	
+GLUC	2019-11-09	Saturday	11:11	671	125	
+FOOD	2019-11-09	Saturday	19:30	1170	Cerveza lata, lays 95	
+FOOD	2019-11-09	Saturday	22:51	1371	Cerveza,lays 150	
+GLUC	2019-11-10	Sunday	10:51	651	119	
+DRUG	2019-11-10	Sunday	10:52	652	DIAF	
+DRUG	2019-11-10	Sunday	10:52	652	NOVONORM	
+DRUG	2019-11-10	Sunday	10:52	652	DIARIS	
+FOOD	2019-11-10	Sunday	15:16	916	Asado	
+FOOD	2019-11-10	Sunday	22:30	1350	Lata ce4veza, lays 150	
+GLUC	2019-11-11	Monday	8:15	495	130	
+FOOD	2019-11-11	Monday	9:45	585	3 bizcochos, collet bombom	
+FOOD	2019-11-11	Monday	10:16	616	Toblerone pequeño	
+FOOD	2019-11-11	Monday	12:45	765	Atun, agua, ensalada	
+DRUG	2019-11-11	Monday	14:00	840	DIAF	
+FOOD	2019-11-11	Monday	16:07	967	Torta limon, coca light 250	
+GLUC	2019-11-11	Monday	19:03	1143	105	
+FOOD	2019-11-12	Tuesday	9:30	570	3 bizcochos, collet bombom	
+FOOD	2019-11-12	Tuesday	12:45	765	Atin,agua, ensalada	
+DRUG	2019-11-12	Tuesday	13:42	822	DIAF	
+FOOD	2019-11-12	Tuesday	16:00	960	Torta zanahoria, coca light	
+GLUC	2019-11-13	Wednesday	8:38	518	144	
+FOOD	2019-11-13	Wednesday	9:30	570	3 bizcochos, collet bombom	
+FOOD	2019-11-13	Wednesday	13:28	808	Atun, agua, ensalada	
+DRUG	2019-11-13	Wednesday	13:40	820	DIAF	
+DRUG	2019-11-13	Wednesday	19:30	1170	DIARIS	
+GLUC	2019-11-13	Wednesday	21:45	1305	95	
+FOOD	2019-11-13	Wednesday	22:00	1320	2 empanadas pollo, leche	
+DRUG	2019-11-13	Wednesday	22:46	1366	DIAF	
+DRUG	2019-11-13	Wednesday	22:46	1366	MICARDIS	
+DRUG	2019-11-13	Wednesday	22:46	1366	CRESTOR	
+FOOD	2019-11-14	Thursday	16:06	966	3 empanadas, coca light 600, galleta bombom	
+GLUC	2019-11-14	Thursday	21:41	1301	99	
+FOOD	2019-11-15	Friday	16:05	965	3 empanadas, coca light 600, galleta bombom	
+FOOD	2019-11-15	Friday	16:05	965		
+FOOD	2019-11-15	Friday	16:06	966	3 empanadas, coca light 600, galleta bombom	
+FOOD	2019-11-15	Friday	17:43	1063		
+GLUC	2019-11-15	Friday	20:59	1259	107	
+GLUC	2019-11-16	Saturday	12:30	750	133	
+FOOD	2019-11-16	Saturday	12:30	750	2 huevos, chocolight	
+DRUG	2019-11-16	Saturday	12:30	750	DIAF	
+DRUG	2019-11-16	Saturday	12:30	750	DIARIS	
+FOOD	2019-11-17	Sunday	9:30	570	Lata cerveza, lays 95	
+GLUC	2019-11-17	Sunday	10:30	630	129	
+FOOD	2019-11-17	Sunday	10:30	630		
+DRUG	2019-11-17	Sunday	10:30	630	DIARIS	
+DRUG	2019-11-17	Sunday	10:30	630	DIAF	
+GLUC	2019-11-18	Monday	8:20	500	127	
+DRUG	2019-11-18	Monday	8:25	505	DIAF	
+DRUG	2019-11-18	Monday	8:25	505	DIARIS	
+FOOD	2019-11-18	Monday	12:45	765	Atun, agua, ensalada	
+DRUG	2019-11-18	Monday	12:45	765	DIAF	
+FOOD	2019-11-18	Monday	16:06	966	1 masitas	
+FOOD	2019-11-18	Monday	21:35	1295	68 gr, kocler	
+GLUC	2019-11-18	Monday	23:26	1406	29	
+FOOD	2019-11-18	Monday	23:30	1410	2 empanadas jamon y quezo, leche	
+DRUG	2019-11-19	Tuesday	8:25	505	DIAF	
+DRUG	2019-11-19	Tuesday	8:25	505	NOVONORM	
+DRUG	2019-11-19	Tuesday	8:25	505	MICARDIS	
+DRUG	2019-11-19	Tuesday	8:25	505	CRESTOR	
+DRUG	2019-11-19	Tuesday	8:25	505	CRESTOR	
+GLUC	2019-11-19	Tuesday	8:26	506	113	
+DRUG	2019-11-19	Tuesday	8:26	506	DIARIS	
+FOOD	2019-11-19	Tuesday	12:45	765	Atun, agua, ensalada	
+DRUG	2019-11-19	Tuesday	12:45	765	DIAF	
+FOOD	2019-11-19	Tuesday	16:00	960	Torta nara ja, coca light, gallera bombom	
+GLUC	2019-11-19	Tuesday	20:00	1200	94	
+FOOD	2019-11-19	Tuesday	21:15	1275	68 gr, kofler	
+GLUC	2019-11-19	Tuesday	23:11	1391	106	
+FOOD	2019-11-20	Wednesday	0:00	0	2 empamadas kamon y wuezo, leche	
+DRUG	2019-11-20	Wednesday	0:43	43	DIAF	
+DRUG	2019-11-20	Wednesday	0:43	43	MICARDIS	
+DRUG	2019-11-20	Wednesday	0:43	43	NOVONORM	
+GLUC	2019-11-20	Wednesday	8:01	481	104	
+DRUG	2019-11-20	Wednesday	8:04	484	DIARIS	
+FOOD	2019-11-20	Wednesday	9:30	570	3 bicochos, colket bombom	
+FOOD	2019-11-20	Wednesday	12:45	765	Atun, agua, ensalada, pan	
+DRUG	2019-11-20	Wednesday	13:53	833	DIAF	
+DRUG	2019-11-20	Wednesday	13:53	833	DIAF	
+FOOD	2019-11-20	Wednesday	16:00	960	Tor5a naranja, coca light, galleta bombom	
+GLUC	2019-11-20	Wednesday	21:33	1293	86	
+FOOD	2019-11-20	Wednesday	21:45	1305	68 gr kofler	
+GLUC	2019-11-20	Wednesday	23:16	1396	99	
+FOOD	2019-11-20	Wednesday	23:30	1410	2 empanadas carne chilena, le he	
+DRUG	2019-11-21	Thursday	0:23	23	DIAF	
+DRUG	2019-11-21	Thursday	0:23	23	NOVONORM	
+DRUG	2019-11-21	Thursday	0:23	23	MICARDIS	
+GLUC	2019-11-21	Thursday	8:05	485	109	
+DRUG	2019-11-21	Thursday	8:05	485	DIARIS	
+FOOD	2019-11-21	Thursday	9:43	583	3 bizcochos, collet bombom	
+FOOD	2019-11-21	Thursday	12:45	765	Atun, agua, ensalada	
+FOOD	2019-11-21	Thursday	16:00	960	Torta narNja, mefia torta chicolate, coca light 250	
+GLUC	2019-11-21	Thursday	20:07	1207	77	
+FOOD	2019-11-21	Thursday	20:27	1227	34 gr kofler	
+FOOD	2019-11-21	Thursday	21:00	1260	68 gr kofler	
+GLUC	2019-11-21	Thursday	23:23	1403	90	
+DRUG	2019-11-21	Thursday	23:24	1404	DIAF	
+DRUG	2019-11-21	Thursday	23:24	1404	NOVONORM	
+DRUG	2019-11-21	Thursday	23:24	1404	MICARDIS	
+FOOD	2019-11-21	Thursday	23:46	1426	2 empanadas, leche	
+FOOD	2019-11-21	Thursday	23:46	1426	2 empanadas, leche	
+DRUG	2019-11-22	Friday	8:39	519	DIARIS	
+GLUC	2019-11-22	Friday	8:39	519	94	
+FOOD	2019-11-22	Friday	9:35	575	3 biCochos, colket bombom	
+FOOD	2019-11-22	Friday	12:45	765	Atun, agua, ensalafa, pan*n*	
+DRUG	2019-11-22	Friday	15:07	907	DIAF	
+FOOD	2019-11-22	Friday	21:30	1290	68 gr kofler	
+GLUC	2019-11-22	Friday	21:32	1292	79	
+GLUC	2019-11-22	Friday	23:11	1391	91	
+FOOD	2019-11-23	Saturday	11:30	690	35 gr kofler	
+GLUC	2019-11-23	Saturday	12:26	746	93	
+FOOD	2019-11-23	Saturday	12:30	750	2 huevos, chocolight	
+GLUC	2019-11-23	Saturday	22:47	1367	97	
+DRUG	2019-11-24	Sunday	0:07	7	DIAF	
+DRUG	2019-11-24	Sunday	0:07	7	NOVONORM	
+DRUG	2019-11-24	Sunday	0:09	9	MICARDIS	
+DRUG	2019-11-24	Sunday	9:42	582	DIAF	
+GLUC	2019-11-24	Sunday	9:42	582	129	
+FOOD	2019-11-24	Sunday	9:50	590	2 huevos, chocolight	
+FOOD	2019-11-24	Sunday	15:00	900	2 pack galletas arcor, chocolight	
+GLUC	2019-11-24	Sunday	19:32	1172	138	
+FOOD	2019-11-24	Sunday	23:30	1410	Carne de cerdo, arroz, leche	
+GLUC	2020-01-09	Thursday	15:46	946	127	
+GLUC	2020-01-10	Friday	12:30	750	144	
+FOOD	2020-01-10	Friday	18:30	1110	Papas kYs, coca light	
+GLUC	2020-01-10	Friday	18:45	1125	107	
+FOOD	2020-01-10	Friday	21:45	1305	34 gr, kofler	
+FOOD	2020-01-10	Friday	21:45	1305	34 gr, kofler	
+FOOD	2020-01-10	Friday	23:30	1410	Cerveza pTricia litro, papas lays 150 yr	
+GLUC	2020-01-11	Saturday	14:30	870	135	
+FOOD	2020-01-11	Saturday	14:30	870	2 huevos, chocolight, pan	
+DRUG	2020-01-11	Saturday	14:31	871	DIARIS	
+DRUG	2020-01-11	Saturday	14:31	871	DIARIS	
+FOOD	2020-01-11	Saturday	16:54	1014	Pasta, pan, coca light	
+DRUG	2020-01-11	Saturday	16:54	1014	NOVONORM	
+DRUG	2020-01-11	Saturday	16:54	1014	DIAF	
+FOOD	2020-01-11	Saturday	22:00	1320	Chivito, coca light	
+DRUG	2020-01-11	Saturday	22:30	1350	DIAF	
+DRUG	2020-01-11	Saturday	22:30	1350	NOVONORM	
+FOOD	2020-01-12	Sunday	1:27	87	2 cervezas patricia litro, papas ruffles 150 gr	
+FOOD	2020-01-12	Sunday	12:30	750	2 huevos, pan, chicolate	
+DRUG	2020-01-12	Sunday	13:28	808	DIARIS	
+GLUC	2020-01-12	Sunday	13:28	808	133	
+FOOD	2020-01-12	Sunday	14:39	879	Galketas toddy, leche entera	
+FOOD	2020-01-12	Sunday	19:30	1170	34 gr kofler	
+GLUC	2020-01-13	Monday	10:41	641	128	
+DRUG	2020-01-13	Monday	13:28	808	DIAF	
+FOOD	2020-01-13	Monday	13:29	809	2 empanadas jamon y queso, civa light	
+FOOD	2020-01-13	Monday	21:30	1290	34 gr kofler	
+DRUG	2020-01-13	Monday	22:30	1350	DIARIS	
+FOOD	2020-01-13	Monday	22:30	1350	2 huevos, leche entera chicolatada	
+GLUC	2020-01-13	Monday	23:23	1403	111	
+FOOD	2020-01-14	Tuesday	1:01	61	2 empanadas jamon y wueso, coca light	
+DRUG	2020-01-14	Tuesday	1:01	61	DIAF	
+DRUG	2020-01-14	Tuesday	1:01	61	NOVONORM	
+DRUG	2020-01-14	Tuesday	1:01	61	CRESTOR	
+GLUC	2020-01-14	Tuesday	9:38	578	93	
+DRUG	2020-01-14	Tuesday	9:38	578	DIARIS	
+FOOD	2020-01-14	Tuesday	9:38	578	2 hievos, chocolate	
+FOOD	2020-01-14	Tuesday	12:56	776	Cerveza heinecken lata, paoas lays 90 gr	
+FOOD	2020-01-14	Tuesday	15:06	906	Milanesa pollo, cocs light	
+DRUG	2020-01-14	Tuesday	15:06	906	DIAF	
+GLUC	2020-01-14	Tuesday	20:43	1243	90	
+FOOD	2020-01-14	Tuesday	21:06	1266	Galjetas toddy, leche	
+FOOD	2020-01-14	Tuesday	21:30	1290	34 gr kofler	
+GLUC	2020-01-14	Tuesday	23:15	1395	158	
+DRUG	2020-01-15	Wednesday	13:52	832	DIARIS	
+GLUC	2020-01-15	Wednesday	13:54	834	126	
+FOOD	2020-01-15	Wednesday	16:00	960	Carne, arroz leche	
+DRUG	2020-01-15	Wednesday	16:00	960	DIAF	
+GLUC	2020-01-15	Wednesday	21:06	1266	102	
+FOOD	2020-01-15	Wednesday	21:45	1305	34 gr kofler	
+GLUC	2020-01-15	Wednesday	23:11	1391	96	
+DRUG	2020-01-16	Thursday	1:35	95	DIAF	
+DRUG	2020-01-16	Thursday	1:35	95	CRESTOR	
+DRUG	2020-01-16	Thursday	10:47	647	DIARIS	
+GLUC	2020-01-16	Thursday	10:47	647	106	
+FOOD	2020-01-16	Thursday	14:04	844	Milanesa pollo, coca light 250 ml	
+DRUG	2020-01-16	Thursday	14:04	844	DIAF	
+GLUC	2020-01-16	Thursday	20:38	1238	103	
+FOOD	2020-01-16	Thursday	21:15	1275	34 gr cofler	
+GLUC	2020-01-16	Thursday	22:57	1377	113	
+DRUG	2020-01-17	Friday	11:25	685	DIARIS	
+GLUC	2020-01-17	Friday	11:25	685	113	
+FOOD	2020-01-17	Friday	11:54	714	2 hurvis, chicolate, pan	
+DRUG	2020-01-17	Friday	11:54	714	DIAF	
+FOOD	2020-01-17	Friday	21:04	1264	Leche chocolatada, pPas lays 80 ht	
+GLUC	2020-01-17	Friday	21:04	1264	158	
+FOOD	2020-01-17	Friday	23:16	1396	68 gr cofler	
+GLUC	2020-01-17	Friday	23:20	1400	160	
+FOOD	2020-01-18	Saturday	12:15	735	2 hurvos, chocolate, pan	
+DRUG	2020-01-18	Saturday	12:15	735	DIARIS	
+GLUC	2020-01-18	Saturday	13:17	797	119	
+DRUG	2020-01-18	Saturday	13:17	797	DIAF	
+FOOD	2020-01-18	Saturday	17:30	1050	68 gr cofler	
+GLUC	2020-01-18	Saturday	17:36	1056	86	
+GLUC	2020-01-18	Saturday	19:33	1173	118	
+FOOD	2020-01-18	Saturday	23:56	1436	Helado chocolate	
+GLUC	2020-01-19	Sunday	13:30	810	129	
+DRUG	2020-01-19	Sunday	13:30	810	DIARIS	
+FOOD	2020-01-19	Sunday	13:30	810	2 huevos, chicolate, pan	
+DRUG	2020-01-19	Sunday	14:45	885	DIAF	
+GLUC	2020-01-19	Sunday	19:26	1166	84	
+FOOD	2020-01-19	Sunday	19:30	1170	68 gr cofler	
+GLUC	2020-01-19	Sunday	21:11	1271	127	
+FOOD	2020-01-19	Sunday	22:44	1364	Cerveza lata patricia, papas lays 80 gr	
+DRUG	2020-01-19	Sunday	23:13	1393	DIAF	
+DRUG	2020-01-19	Sunday	23:13	1393	NOVONORM	
+FOOD	2020-01-20	Monday	2:12	132	34 gr kofler	
+GLUC	2020-01-20	Monday	10:10	610	110	
+FOOD	2020-01-20	Monday	14:03	843	Milanesa pollo, agua	
+DRUG	2020-01-20	Monday	14:03	843	DIAF	
+DRUG	2020-01-21	Tuesday	9:38	578	DIARIS	
+GLUC	2020-01-21	Tuesday	9:38	578	112	
+FOOD	2020-01-21	Tuesday	13:00	780	Milanesa pollo, agua	
+DRUG	2020-01-21	Tuesday	15:26	926	DIAF	
+FOOD	2020-01-22	Wednesday	14:00	840	Atun, ensalada, agua, frutas	
+DRUG	2020-01-22	Wednesday	14:00	840	DIAF	
+FOOD	2020-01-22	Wednesday	20:24	1224	Pan, leche, papas lays 90 gr, 34 gr cofler	
+GLUC	2020-01-24	Friday	9:05	545	111	
+DRUG	2020-01-24	Friday	9:05	545	DIARIS	
+FOOD	2020-01-25	Saturday	12:09	729	2 huevos, chocolate	
+GLUC	2020-01-25	Saturday	12:09	729	116	
+DRUG	2020-01-25	Saturday	12:09	729	DIAF	
+DRUG	2020-01-25	Saturday	12:09	729	DIARIS	
+FOOD	2020-01-27	Monday	7:30	450	34 gr kofler	
+DRUG	2020-01-27	Monday	8:52	532	DIARIS	
+GLUC	2020-01-27	Monday	8:52	532	111	
+FOOD	2020-01-28	Tuesday	14:20	860	Milanesa pollo, agua	
+DRUG	2020-01-28	Tuesday	14:20	860	DIAF	
+GLUC	2020-01-29	Wednesday	20:14	1214	102	
+FOOD	2020-01-30	Thursday	13:38	818	Milaness pollo, agua	
+DRUG	2020-01-30	Thursday	13:38	818	DIAF	
+FOOD	2020-01-30	Thursday	16:30	990	Brownie, fanta	
+GLUC	2020-01-30	Thursday	20:03	1203	98	
+GLUC	2020-01-31	Friday	8:17	497	113	
+FOOD	2020-01-31	Friday	9:00	540	3 bizcochos, collet bombin	
+FOOD	2020-01-31	Friday	13:40	820	Shawarma, pepsi	
+FOOD	2020-01-31	Friday	16:10	970	Brownie, fanta	
+DRUG	2020-01-31	Friday	19:52	1192	DIAF	
+FOOD	2020-01-31	Friday	21:10	1270	34 gr cofler, pan, papas kags, le he descr	
+GLUC	2020-01-31	Friday	23:10	1390	155	
+GLUC	2020-02-01	Saturday	14:13	853	117	
+FOOD	2020-02-02	Sunday	19:45	1185	34 gr cofler	
+FOOD	2020-02-02	Sunday	23:30	1410	Cerveza patricia lata pew., papas lays 150 gt	
+GLUC	2020-02-03	Monday	20:38	1238	92	
+FOOD	2020-02-03	Monday	21:45	1305	34 gr cofler	
+GLUC	2020-02-03	Monday	23:37	1417	118	
+FOOD	2020-02-03	Monday	23:38	1418	Pan, papas lays, leche descr	
+FOOD	2020-02-04	Tuesday	13:00	780	Carne, arro, empanada pollo, arro, fanta peq	
+DRUG	2020-02-04	Tuesday	14:30	870	DIAF	
+FOOD	2020-02-05	Wednesday	0:36	36	Asado	
+FOOD	2020-02-05	Wednesday	13:00	780	Carne, arroz, agua	
+DRUG	2020-02-05	Wednesday	14:00	840	DIAF	
+FOOD	2020-02-05	Wednesday	16:15	975	Carne, arroz, agtorta durazno, cholotina bonbon, fant pea	
+GLUC	2020-02-05	Wednesday	21:22	1282	101	
+FOOD	2020-02-05	Wednesday	21:45	1305	34 gr cofler	
+GLUC	2020-02-05	Wednesday	23:11	1391	91	
+FOOD	2020-02-06	Thursday	10:05	605	3 bizcochis, collet bombom	
+FOOD	2020-02-06	Thursday	13:45	825	Carne, arroz  , agua	
+DRUG	2020-02-06	Thursday	14:18	858	DIAF	
+FOOD	2020-02-06	Thursday	16:45	1005	Torta durazno, coca light peq	
+GLUC	2020-02-06	Thursday	20:42	1242	87	
+FOOD	2020-02-06	Thursday	21:15	1275	34 gr cofler	
+GLUC	2020-02-06	Thursday	22:50	1370	96	
+FOOD	2020-02-07	Friday	9:44	584	3 bizcochis, collet bombom	
+FOOD	2020-02-07	Friday	13:30	810	Hamburguesa, pepsi	
+GLUC	2020-02-08	Saturday	0:12	12	96	
+FOOD	2020-02-08	Saturday	3:10	190	Cerveza patricia litro, papas lays 150 gr	
+FOOD	2020-02-08	Saturday	15:05	905	2 huevos, leche	
+GLUC	2020-02-08	Saturday	15:05	905	108	
+FOOD	2020-02-08	Saturday	19:19	1159	Pan, papas lats o0gr, leche, galletas toddy	
+FOOD	2020-02-08	Saturday	20:15	1215	34 gr cofler	
+GLUC	2020-02-08	Saturday	21:27	1287	155	
+DRUG	2020-02-08	Saturday	22:59	1379	DIAF	
+DRUG	2020-02-08	Saturday	22:59	1379	NOVONORM	
+FOOD	2020-02-09	Sunday	16:30	990	Pan, papas lays, leche	
+FOOD	2020-02-09	Sunday	19:35	1175	34 gr cofler	
+GLUC	2020-02-09	Sunday	21:35	1295	129	
+FOOD	2020-02-09	Sunday	23:30	1410	Cerveza lata patricia, paoas lays 90 gr	
+GLUC	2020-02-10	Monday	8:35	515	131	
+FOOD	2020-02-10	Monday	9:20	560	3 bizcochis, collet bombom	
+FOOD	2020-02-10	Monday	13:28	808	Carne, arroz, ensalada, agua	
+DRUG	2020-02-10	Monday	13:28	808	DIAF	
+FOOD	2020-02-10	Monday	16:15	975	Torta limon, coca light	
+GLUC	2020-02-10	Monday	21:19	1279	91	
+GLUC	2020-02-10	Monday	21:19	1279	91	
+FOOD	2020-02-10	Monday	21:45	1305	34 gr cofler	
+FOOD	2020-02-11	Tuesday	1:05	65	Varne, arroz, agua	
+DRUG	2020-02-11	Tuesday	1:05	65	DIAF	
+DRUG	2020-02-11	Tuesday	1:05	65	MICARDIS	
+DRUG	2020-02-11	Tuesday	1:05	65	CRESTOR	
+DRUG	2020-02-11	Tuesday	1:05	65	CRESTOR	
+FOOD	2020-02-11	Tuesday	10:30	630	34 gr cofler	
+DRUG	2020-02-11	Tuesday	10:30	630	DIAF	
+DRUG	2020-02-11	Tuesday	10:30	630	NOVONORM	
+DRUG	2020-02-11	Tuesday	10:30	630	MICARDIS	
+DRUG	2020-02-11	Tuesday	10:30	630	CRESTOR	
+FOOD	2020-02-11	Tuesday	12:05	725	Milanesa pollo, agua	
+DRUG	2020-02-11	Tuesday	12:53	773	DIAF	
+FOOD	2020-02-11	Tuesday	16:15	975	Torta limon,  coca 250 ml	
+DRUG	2020-02-11	Tuesday	20:29	1229	DIARIS	
+FOOD	2020-02-11	Tuesday	22:11	1331	3 bizcochos, collet bombom	
+DRUG	2020-02-12	Wednesday	8:33	513	DIARIS	
+GLUC	2020-02-12	Wednesday	8:33	513	103	
+FOOD	2020-02-12	Wednesday	9:42	582	3 bizcochos, collet bombom	
+FOOD	2020-02-12	Wednesday	13:00	780	Milanesa pollo, agua	
+DRUG	2020-02-12	Wednesday	13:49	829	DIAF	
+FOOD	2020-02-12	Wednesday	21:45	1305	34 gr, cofler	
+GLUC	2020-02-12	Wednesday	23:07	1387	113	
+FOOD	2020-02-13	Thursday	9:56	596	3 bizcochos, collet bombom	
+FOOD	2020-02-13	Thursday	12:50	770	Carne, arroz , agua	
+GLUC	2020-02-13	Thursday	14:14	854	117	
+DRUG	2020-02-13	Thursday	14:14	854	DIARIS	
+DRUG	2020-02-13	Thursday	14:15	855	DIAF	
+FOOD	2020-02-13	Thursday	21:10	1270	34 gr cofler	
+GLUC	2020-02-13	Thursday	22:39	1359	133	
+DRUG	2020-02-13	Thursday	23:02	1382	DIAF	
+DRUG	2020-02-13	Thursday	23:02	1382	MICARDIS	
+DRUG	2020-02-13	Thursday	23:02	1382	CRESTOR	
+GLUC	2020-02-14	Friday	9:08	548	98	
+DRUG	2020-02-14	Friday	9:13	553	DIARIS	
+FOOD	2020-02-14	Friday	9:45	585	3 bizcochos, collet bombom	
+FOOD	2020-02-14	Friday	13:30	810	Milanesa pollo, agua	
+DRUG	2020-02-14	Friday	14:26	866	DIAF	
+FOOD	2020-02-14	Friday	16:10	970	Torta chicolate y crema, coca light 250 ml	
+GLUC	2020-02-14	Friday	20:45	1245	118	
+FOOD	2020-02-14	Friday	23:10	1390	34 gr,cofler	
+GLUC	2020-02-14	Friday	23:11	1391	110	
+GLUC	2020-02-14	Friday	23:11	1391	110	
+FOOD	2020-02-15	Saturday	1:30	90	Cerveza pateicia litro, papS lays 150 gr	
+GLUC	2020-02-15	Saturday	11:53	713	116	
+FOOD	2020-02-15	Saturday	12:18	738	2 huevos, chocolate, pan	
+DRUG	2020-02-15	Saturday	12:18	738	DIAF	
+DRUG	2020-02-15	Saturday	12:18	738	DIARIS	
+GLUC	2020-02-15	Saturday	19:52	1192	100	
+FOOD	2020-02-15	Saturday	22:18	1338	34 gr, cofler	
+GLUC	2020-02-16	Sunday	15:00	900	105	
+FOOD	2020-02-16	Sunday	15:00	900	2 huevis, chicilate, pan	
+FOOD	2020-02-16	Sunday	19:30	1170	34 gr, kofler	
+FOOD	2020-02-17	Monday	0:30	30	Cerveza patricia lata pew, papas lays 90 gr	
+FOOD	2020-02-17	Monday	2:28	148	34 gr kofler	
+FOOD	2020-02-17	Monday	10:15	615	Cuca  collet bombom	
+DRUG	2020-02-17	Monday	15:00	900	DIAF	
+DRUG	2020-02-17	Monday	15:00	900	DIARIS	
+FOOD	2020-02-17	Monday	19:46	1186	Carne, arroz, agua	
+FOOD	2020-02-17	Monday	23:11	1391	34 gr , cofler	
+GLUC	2020-02-17	Monday	23:15	1395	103	
+DRUG	2020-02-17	Monday	23:45	1425	DIAF	
+DRUG	2020-02-17	Monday	23:45	1425	MICARDIS	
+DRUG	2020-02-17	Monday	23:45	1425	CRESTOR	
+FOOD	2020-02-18	Tuesday	10:00	600	Galletas integrales, collet bombom	
+FOOD	2020-02-18	Tuesday	14:15	855	Carne, arroz, huebo, coca light 250 ml	
+DRUG	2020-02-18	Tuesday	14:16	856	DIAF	
+FOOD	2020-02-18	Tuesday	16:00	960	Torta zanahoria, coca light	
+GLUC	2020-02-18	Tuesday	22:50	1370	118	
+DRUG	2020-02-19	Wednesday	7:30	450	DIARIS	
+FOOD	2020-02-19	Wednesday	10:00	600	Alfajorcito, collet bombom	
+FOOD	2020-02-19	Wednesday	13:00	780	Carne, arroz, cova light 250 ml	
+FOOD	2020-02-19	Wednesday	16:30	990	Brownie, gelatina , coca light	
+GLUC	2020-02-19	Wednesday	21:16	1276	106	
+FOOD	2020-02-19	Wednesday	21:56	1316	Pan, papas lays 90 gr, galletas toddy, leche descr	
+DRUG	2020-02-19	Wednesday	22:30	1350	DIAF	
+DRUG	2020-02-19	Wednesday	22:30	1350	MICARDIS	
+FOOD	2020-02-20	Thursday	21:15	1275	34 gr, cofler	
+DRUG	2020-02-21	Friday	8:00	480	DIARIS	
+FOOD	2020-02-21	Friday	8:55	535	3 bizcochis, collet	
+FOOD	2020-02-21	Friday	13:00	780	Carne, arroz, agua	
+DRUG	2020-02-21	Friday	13:00	780	DIAF	
+FOOD	2020-02-22	Saturday	20:15	1215	34 gr, cofler	
+FOOD	2020-02-23	Sunday	12:30	750	3 huevos, chicilate	
+DRUG	2020-02-23	Sunday	12:30	750	DIARIS	
+FOOD	2020-02-23	Sunday	19:00	1140	34 gr, cofler	
+FOOD	2020-02-23	Sunday	22:30	1350	Pan, lecge, papas lays 150 gr	
+FOOD	2020-02-23	Sunday	23:29	1409	Cerveza pTricia pew, papas lays 90 gr	
+DRUG	2020-02-24	Monday	7:30	450	DIARIS	
+FOOD	2020-02-24	Monday	10:00	600	3 bizcochos, collwt bombin	
+FOOD	2020-02-24	Monday	13:00	780	Carne, arto,voca light 250	
+DRUG	2020-02-24	Monday	13:00	780	DIAF	
+FOOD	2020-03-04	Wednesday	0:06	6	Papas kays, agua	
+DRUG	2020-03-04	Wednesday	0:06	6	DIAF	
+DRUG	2020-03-04	Wednesday	8:00	480	DIARIS	
+FOOD	2020-03-04	Wednesday	9:20	560	3 bizcochos, colket	
+FOOD	2020-03-04	Wednesday	13:00	780	Milanesa pollo, agua	
+DRUG	2020-03-04	Wednesday	13:40	820	DIAF	
+FOOD	2020-03-04	Wednesday	21:00	1260	34 gr kofler	
+FOOD	2020-03-05	Thursday	21:10	1270	34 gr, cofler	
+FOOD	2020-03-06	Friday	10:05	605	3 buzcochos, collet	
+FOOD	2020-03-06	Friday	23:22	1402	34 gr, cofler	
+FOOD	2020-03-07	Saturday	20:30	1230	34 gr, cofler	
+DRUG	2020-03-08	Sunday	11:30	690	DIARIS	
+FOOD	2020-03-08	Sunday	21:28	1288	Pan, papas lays 150, leche, verveza patricia lata	
+DRUG	2020-03-09	Monday	7:30	450	DIARIS	
+DRUG	2020-03-09	Monday	7:30	450	DIARIS	
+FOOD	2020-03-09	Monday	9:30	570	Galleta, colket	
+FOOD	2020-03-09	Monday	12:30	750	MilNesa pollo, agua	
+DRUG	2020-03-09	Monday	13:00	780	DIAF	
+FOOD	2020-03-10	Tuesday	9:55	595	3 bizcochos, collet	
+FOOD	2020-03-10	Tuesday	13:46	826	Carne, arri, coca light	
+FOOD	2020-03-10	Tuesday	21:15	1275	34 gr, cofler	
+DRUG	2020-03-11	Wednesday	7:30	450	DIARIS	
+FOOD	2020-03-11	Wednesday	13:00	780	Carne, coca light 250	
+DRUG	2020-03-11	Wednesday	14:00	840	DIAF	
+FOOD	2020-03-11	Wednesday	21:29	1289	3 bizcochos, collwt	
+FOOD	2020-03-11	Wednesday	21:40	1300	34 gr, cofler	
+DRUG	2020-03-12	Thursday	7:29	449	DIARIS	
+FOOD	2020-03-12	Thursday	9:15	555	3 bizcochos, collet bombom del diso, 14 pesos menos	
+FOOD	2020-03-12	Thursday	12:55	775	Carne, arro, agua	
+DRUG	2020-03-12	Thursday	14:00	840	DIAF	
+FOOD	2020-03-12	Thursday	21:15	1275	34 gr, cofler	
+GLUC	2020-03-14	Saturday	12:34	754	89	
+DRUG	2020-03-14	Saturday	12:34	754	DIARIS	
+FOOD	2020-03-14	Saturday	12:34	754	2 huevos, chocolight, pan	
+FOOD	2020-03-14	Saturday	17:00	1020	Milanesa, pan, leche	
+DRUG	2020-03-14	Saturday	17:00	1020	DIAF	
+FOOD	2020-03-14	Saturday	22:34	1354	Espaguetis, pan, leche	
+DRUG	2020-03-14	Saturday	22:35	1355	DIAF	
+DRUG	2020-03-14	Saturday	22:35	1355	NOVONORM	
+GLUC	2020-03-15	Sunday	11:16	676	96	
+FOOD	2020-03-15	Sunday	22:00	1320	2 huevis, pan, chocolight	
+DRUG	2020-03-15	Sunday	22:00	1320	DIAF	
+GLUC	2020-03-16	Monday	7:30	450	112	
+GLUC	2020-03-17	Tuesday	9:41	581	125	
+FOOD	2020-03-17	Tuesday	9:41	581	2 huevos, chocolight, pan	
+DRUG	2020-03-17	Tuesday	9:41	581	DIAF	
+DRUG	2020-03-17	Tuesday	9:41	581	NOVONORM	
+DRUG	2020-03-17	Tuesday	9:41	581	DIARIS	
+GLUC	2020-03-18	Wednesday	9:15	555	117	
+FOOD	2020-03-18	Wednesday	9:15	555	2 huevos, cafe	
+DRUG	2020-03-18	Wednesday	9:45	585	DIAF	
+FOOD	2020-03-18	Wednesday	14:00	840	Carne, arroz, agua	
+GLUC	2020-03-18	Wednesday	14:52	892	95	
+DRUG	2020-03-18	Wednesday	14:53	893	DIAF	
+FOOD	2020-03-19	Thursday	9:00	540	2 huevos, chocolight	
+GLUC	2020-03-19	Thursday	11:06	666	138	
+FOOD	2020-03-19	Thursday	20:00	1200	Galketes bauduco, leche	
+DRUG	2020-03-19	Thursday	23:15	1395	DIAF	
+DRUG	2020-03-19	Thursday	23:15	1395	NOVONORM	
+FOOD	2020-03-19	Thursday	23:15	1395	Pasta, leche	
+FOOD	2020-03-19	Thursday	23:15	1395	Pasta, leche	
+GLUC	2020-03-20	Friday	9:15	555	108	
+FOOD	2020-03-20	Friday	9:15	555	2 huevos, chicolight, pan	
+DRUG	2020-03-20	Friday	9:15	555	DIAF	
+FOOD	2020-03-20	Friday	23:29	1409	Cerveza patricia lata peq, papas lats 90	
+FOOD	2020-03-21	Saturday	23:29	1409	Cerveza patricia lata peq, papas lats 90	
+GLUC	2020-03-22	Sunday	13:13	793	115	
+FOOD	2020-03-22	Sunday	13:13	793	2 huevos, chocolight, pan , queso crema	
+DRUG	2020-03-22	Sunday	13:13	793	DIAF	
+FOOD	2020-03-22	Sunday	19:33	1173	Gallwyas toddy, leche	
+GLUC	2020-03-23	Monday	7:34	454	110	
+FOOD	2020-03-23	Monday	7:34	454	2 huevis, chicolight, pan con wyesi crema	
+GLUC	2020-03-23	Monday	18:13	1093	105	
+FOOD	2020-03-23	Monday	20:30	1230	Galletas toddy, leche	
+FOOD	2020-03-24	Tuesday	14:00	840	Carne, arro, leche	
+FOOD	2020-03-24	Tuesday	17:00	1020	Pan con wueso crema, chocolight	
+FOOD	2020-03-24	Tuesday	22:13	1333	Galletas toddy, papas lays 90 gr, leche descremada	
+DRUG	2020-03-24	Tuesday	22:13	1333	DIAF	
+DRUG	2020-03-24	Tuesday	22:13	1333	NOVONORM	
+GLUC	2020-03-25	Wednesday	9:00	540	108	
+FOOD	2020-03-25	Wednesday	9:00	540	2 huevos, chocolight, pan con queso crema	
+DRUG	2020-03-25	Wednesday	9:00	540	DIAF	
+FOOD	2020-03-25	Wednesday	23:00	1380	Espagetis, leche,pN	
+DRUG	2020-03-25	Wednesday	23:00	1380	DIAF	
+DRUG	2020-03-25	Wednesday	23:00	1380	NOVONORM	
+GLUC	2020-03-26	Thursday	9:19	559	126	
+FOOD	2020-03-26	Thursday	9:20	560	2 huevos, chocolight	
+FOOD	2020-03-26	Thursday	21:00	1260	Pan, coca light	
+FOOD	2020-03-26	Thursday	23:00	1380	Pan, chocolight	
+GLUC	2020-03-27	Friday	8:28	508	131	
+FOOD	2020-03-27	Friday	15:45	945	Carne, arroz, papas al horno, coca light	
+DRUG	2020-03-27	Friday	16:13	973	DIAF	
+FOOD	2020-03-27	Friday	23:30	1410	Cerveza patrici litro, paoas lays 90 gr	
+GLUC	2020-03-28	Saturday	8:41	521	127	
+FOOD	2020-03-28	Saturday	8:42	522	2 huevos, chocolight	
+DRUG	2020-03-28	Saturday	17:14	1034	DIAF	
+FOOD	2020-03-28	Saturday	17:14	1034	Carne, arroz, boniato leche	
+FOOD	2020-03-28	Saturday	23:30	1410	Cerveza patricia litro, papas lays 45 gr	
+GLUC	2020-03-29	Sunday	9:59	599	123	
+FOOD	2020-03-29	Sunday	17:45	1065	Pan, chocolight	
+GLUC	2020-03-29	Sunday	18:47	1127	166	
+FOOD	2020-03-29	Sunday	19:03	1143	Carne, arroz, boniato, leche, pan	
+DRUG	2020-03-29	Sunday	19:03	1143	DIAF	
+FOOD	2020-03-29	Sunday	20:30	1230	Galletas toddy, leche	
+DRUG	2020-03-29	Sunday	20:30	1230	DIAF	
+GLUC	2020-03-30	Monday	8:57	537	136	
+FOOD	2020-03-30	Monday	8:57	537	2 hyevos, chocolight, pan	
+FOOD	2020-03-30	Monday	14:30	870	Carne,arroz, pan, leche	
+GLUC	2020-03-30	Monday	19:19	1159	172	
+GLUC	2020-03-31	Tuesday	17:03	1023	73	
+DRUG	2020-03-31	Tuesday	17:03	1023	DIAF	
+FOOD	2020-03-31	Tuesday	17:03	1023	Carne, arroz, leche descr	
+FOOD	2020-03-31	Tuesday	21:00	1260	Galletas toddy, leche	
+FOOD	2020-03-31	Tuesday	23:00	1380	Coca light, papas lays	
+DRUG	2020-03-31	Tuesday	23:00	1380	DIAF	
+GLUC	2020-04-01	Wednesday	9:00	540	127	
+FOOD	2020-04-01	Wednesday	9:00	540	2 huevis, chocolight	
+DRUG	2020-04-01	Wednesday	10:12	612	DIAF	
+GLUC	2020-04-01	Wednesday	16:46	1006	86	
+FOOD	2020-04-01	Wednesday	21:00	1260	Papas lays staxys, coca light	
+DRUG	2020-04-01	Wednesday	21:00	1260	DIAF	
+GLUC	2020-04-02	Thursday	8:38	518	105	
+FOOD	2020-04-02	Thursday	14:05	845	Carne, arro, coca light	
+DRUG	2020-04-02	Thursday	14:09	849	DIAF	
+FOOD	2020-04-02	Thursday	21:00	1260	Papas lays stax, coca light	
+GLUC	2020-04-03	Friday	8:30	510	111	
+FOOD	2020-04-03	Friday	8:31	511	2 huevos, chocilight	
+DRUG	2020-04-03	Friday	8:31	511	DIAF	
+FOOD	2020-04-03	Friday	15:48	948	Espaguetis con tuci, leche descr	
+DRUG	2020-04-03	Friday	15:48	948	DIAF	
+FOOD	2020-04-03	Friday	22:00	1320	2 empanadas pollo, leche descr	
+FOOD	2020-04-03	Friday	23:03	1383	Cerveza patricia litro, papas lays150gr	
+GLUC	2020-04-04	Saturday	11:03	663	111	
+FOOD	2020-04-04	Saturday	17:00	1020	Carne, arro, leche descr	
+DRUG	2020-04-04	Saturday	17:23	1043	DIAF	
+FOOD	2020-04-04	Saturday	21:30	1290	Cerveza patricia litro, papas lays stax	
+GLUC	2020-04-05	Sunday	10:22	622	120	
+FOOD	2020-04-05	Sunday	23:29	1409	Cerveza patricia lara light, papas lays 90 gr	
+GLUC	2020-04-06	Monday	9:00	540	114	
+FOOD	2020-04-06	Monday	9:00	540	2 huevos, chocolight	
+DRUG	2020-04-06	Monday	9:00	540	DIAF	
+FOOD	2020-04-06	Monday	14:48	888	Carne 224 gr, arroz, leche descr	
+DRUG	2020-04-06	Monday	14:48	888	DIAF	
+FOOD	2020-04-06	Monday	21:00	1260	Galletas toddy, leche descr	
+GLUC	2020-04-07	Tuesday	8:50	530	122	
+FOOD	2020-04-08	Wednesday	15:29	929	Carne, arroz, leche descr	
+DRUG	2020-04-08	Wednesday	15:29	929	DIAF	
+FOOD	2020-04-09	Thursday	8:30	510	2 huevos, choco toddy, leche, banana	
+DRUG	2020-04-09	Thursday	8:30	510	DIAF	
+FOOD	2020-04-09	Thursday	14:00	840	Raviolis con tuco, leche descr	
+DRUG	2020-04-09	Thursday	14:00	840	DIAF	
+FOOD	2020-04-09	Thursday	23:30	1410	Pan frances, papas lays 90, leche descr	
+FOOD	2020-04-10	Friday	8:30	510	2 huevos, pan frances, leche descr, banana	
+DRUG	2020-04-10	Friday	8:30	510	DIAF	
+GLUC	2020-04-27	Monday	17:41	1061	158	
+GLUC	2020-04-27	Monday	17:41	1061	158	
+GLUC	2020-04-28	Tuesday	8:25	505	137	
+FOOD	2020-04-29	Wednesday	8:30	510	2 hievos, chocolight	
+DRUG	2020-04-29	Wednesday	8:30	510	DIAF	
+DRUG	2020-04-29	Wednesday	8:30	510	DIARIS	
+GLUC	2020-04-29	Wednesday	8:49	529	151	
+GLUC	2020-04-29	Wednesday	18:32	1112	107	
+DRUG	2020-04-29	Wednesday	21:32	1292	DIAF	
+DRUG	2020-04-29	Wednesday	21:32	1292	CRESTOR	
+FOOD	2020-04-29	Wednesday	21:32	1292	Pechuga pollo, papa, leche descr	
+FOOD	2020-04-30	Thursday	9:30	570	2 huevos,  chocolight	
+FOOD	2020-04-30	Thursday	9:30	570	2 huevos,  chocolight	
+GLUC	2020-04-30	Thursday	9:30	570	152	
+DRUG	2020-04-30	Thursday	9:30	570	DIAF	
+DRUG	2020-04-30	Thursday	9:30	570	CRESTOR	
+DRUG	2020-04-30	Thursday	9:30	570	CRESTOR	
+GLUC	2020-04-30	Thursday	18:44	1124	80	
+GLUC	2020-05-01	Friday	9:49	589	126	
+DRUG	2020-05-01	Friday	9:49	589	DIAF	
+DRUG	2020-05-01	Friday	9:49	589	DIARIS	
+FOOD	2020-05-01	Friday	9:49	589	2 huevos. Chocolight	
+FOOD	2020-05-01	Friday	17:00	1020	Trozos carne apanada, puré, leche	
+GLUC	2020-05-02	Saturday	10:22	622	155	
+DRUG	2020-05-02	Saturday	10:24	624	DIARIS	
+DRUG	2020-05-02	Saturday	10:24	624	DIARIS	
+GLUC	2020-05-02	Saturday	18:40	1120	89	
+FOOD	2020-05-02	Saturday	21:17	1277	Milanesa pescado, pure, leche	
+DRUG	2020-05-02	Saturday	21:17	1277	DIAF	
+DRUG	2020-05-02	Saturday	21:17	1277	CRESTOR	
+FOOD	2020-05-02	Saturday	22:43	1363	Cerveza patricia, papas prezy	
+GLUC	2020-05-03	Sunday	10:43	643	134	
+FOOD	2020-05-03	Sunday	12:01	721	2 huevos, chocolight	
+DRUG	2020-05-03	Sunday	12:01	721	DIAF	
+DRUG	2020-05-03	Sunday	12:01	721	DIARIS	
+FOOD	2020-05-03	Sunday	17:00	1020	Galletas integrales, 2 chocolight	
+GLUC	2020-05-03	Sunday	19:17	1157	138	
+FOOD	2020-05-03	Sunday	19:32	1172	Pollo apanado, pasta	
+FOOD	2020-05-04	Monday	8:30	510	2 huevos con jamon. Chocolight	
+DRUG	2020-05-04	Monday	8:30	510	DIAF	
+GLUC	2020-05-04	Monday	8:42	522	146	
+DRUG	2020-05-04	Monday	8:42	522	DIARIS	
+GLUC	2020-05-05	Tuesday	8:38	518	127	
+DRUG	2020-05-05	Tuesday	8:38	518	DIARIS	
+DRUG	2020-05-05	Tuesday	8:38	518	DIAF	
+FOOD	2020-05-05	Tuesday	8:38	518	2huevos, chocolight	
+FOOD	2020-05-05	Tuesday	14:44	884	Pollo, arroz, coca cola	
+DRUG	2020-05-05	Tuesday	14:44	884	DIAF	
+GLUC	2020-05-05	Tuesday	18:03	1083	73	
+FOOD	2020-05-05	Tuesday	19:30	1170	Galletas toddy, leche	
+GLUC	2020-05-06	Wednesday	7:47	467	141	
+GLUC	2020-05-06	Wednesday	18:17	1097	134	
+FOOD	2020-05-06	Wednesday	20:01	1201	Pollo., arroz, leche	
+DRUG	2020-05-06	Wednesday	20:01	1201	DIAF	
+DRUG	2020-05-06	Wednesday	20:01	1201	MICARDIS	
+DRUG	2020-05-06	Wednesday	20:01	1201	GLIMEPIRIDA	
+GLUC	2020-05-07	Thursday	8:30	510	103	
+FOOD	2020-05-07	Thursday	8:30	510	2 huevos, jamon, chocolight	
+DRUG	2020-05-07	Thursday	8:30	510	DIAF	
+GLUC	2020-05-07	Thursday	9:21	561	103	
+DRUG	2020-05-07	Thursday	9:21	561	DIARIS	
+FOOD	2020-05-07	Thursday	15:30	930	Carne, arroz, leche	
+DRUG	2020-05-07	Thursday	15:30	930	DIAF	
+FOOD	2020-05-07	Thursday	21:05	1265	Milanesa prscado, pure, leche	
+DRUG	2020-05-07	Thursday	21:05	1265	DIAF	
+DRUG	2020-05-07	Thursday	21:05	1265	MICARDIS	
+DRUG	2020-05-07	Thursday	21:05	1265	GLIMEPIRIDA	
+DRUG	2020-05-07	Thursday	21:05	1265	CRESTOR	
+FOOD	2020-05-07	Thursday	22:00	1320	Cerveza, papas lays, queso mozarella	
+DRUG	2020-05-08	Friday	8:52	532	DIARIS	
+GLUC	2020-05-08	Friday	8:52	532	119	
+FOOD	2020-05-08	Friday	8:52	532	2 huevos, jamon, chocolight	
+FOOD	2020-05-08	Friday	14:30	870	Pasta, cchorizo, leche	
+DRUG	2020-05-08	Friday	14:30	870	DIAF	
+DRUG	2020-05-08	Friday	14:30	870	NOVONORM	
+GLUC	2020-05-08	Friday	18:48	1128	103	
+GLUC	2020-05-08	Friday	19:57	1197	59	
+GLUC	2020-05-09	Saturday	10:52	652	138	
+FOOD	2020-05-09	Saturday	19:25	1165	Milanesa pescado, puré	
+DRUG	2020-05-09	Saturday	19:25	1165	DIAF	
+DRUG	2020-05-09	Saturday	19:25	1165	MICARDIS	
+FOOD	2020-05-09	Saturday	23:24	1404	1cerveza litroo patricia, papas lays 150 gr, 300 gr queso parmesano	
+GLUC	2020-05-10	Sunday	11:24	684	135	
+FOOD	2020-05-10	Sunday	11:24	684	2 huevos, salchicha, chocolight	
+GLUC	2020-05-11	Monday	11:50	710	138	
+GLUC	2020-05-25	Monday	19:34	1174	135	
+GLUC	2020-05-26	Tuesday	7:36	456	188	
+FOOD	2020-05-26	Tuesday	8:01	481	2huevos, chocolight	
+DRUG	2020-05-26	Tuesday	8:02	482	DIAF	
+GLUC	2020-05-26	Tuesday	16:22	982	157	
+DRUG	2020-05-26	Tuesday	21:30	1290	DIAF	
+DRUG	2020-05-26	Tuesday	21:30	1290	NOVONORM	
+GLUC	2020-05-27	Wednesday	7:30	450	156	
+DRUG	2020-05-27	Wednesday	7:31	451	DIARIS	
+FOOD	2020-05-27	Wednesday	16:02	962	Carne molida, arroz, leche descr	
+DRUG	2020-05-27	Wednesday	16:02	962	DIAF	
+GLUC	2020-05-27	Wednesday	20:24	1224	117	
+GLUC	2020-05-28	Thursday	7:23	443	135	
+DRUG	2020-05-28	Thursday	7:23	443	DIARIS	
+DRUG	2020-05-28	Thursday	7:23	443	DIAF	
+FOOD	2020-05-28	Thursday	7:23	443	2 huevos, chocolight	
+FOOD	2020-05-28	Thursday	13:00	780	Pollo, arroz, leche	
+DRUG	2020-05-28	Thursday	13:00	780	DIAF	
+GLUC	2020-05-28	Thursday	15:26	926	109	
+FOOD	2020-05-28	Thursday	17:00	1020	Galletas toddy, leche	
+GLUC	2020-05-28	Thursday	21:43	1303	179	
+FOOD	2020-05-28	Thursday	21:56	1316	Milanesa pescado, puré, leche descr	
+DRUG	2020-05-28	Thursday	21:56	1316	DIAF	
+DRUG	2020-05-28	Thursday	21:56	1316	NOVONORM	
+GLUC	2020-05-29	Friday	7:50	470	144	
+DRUG	2020-05-29	Friday	7:50	470	DIARIS	
+FOOD	2020-05-29	Friday	14:00	840	Pollo, arroz, leche	
+DRUG	2020-05-29	Friday	14:00	840	DIAF	
+GLUC	2020-05-29	Friday	17:09	1029	115	
+GLUC	2020-05-29	Friday	17:09	1029	115	
+GLUC	2020-05-30	Saturday	11:00	660	138	
+DRUG	2020-05-30	Saturday	11:00	660	DIARIS	
+FOOD	2020-05-30	Saturday	14:30	870	Albondiga, arroz, coca light	
+DRUG	2020-05-30	Saturday	16:28	988	DIAF	
+FOOD	2020-05-31	Sunday	12:30	750	Carne molida, papa, cocacols	
+GLUC	2020-05-31	Sunday	12:39	759	158	
+GLUC	2020-05-31	Sunday	17:12	1032	59	
+FOOD	2020-05-31	Sunday	19:30	1170	Galletas toddy, leche	
+FOOD	2020-05-31	Sunday	22:50	1370	Cerveza patricia .5 lt, papas lays 90 gr, queso 200 gr	
+GLUC	2020-06-01	Monday	7:50	470	151	
+FOOD	2020-06-01	Monday	7:50	470	2 huevos, chocolight, pan	
+GLUC	2020-06-01	Monday	17:52	1072	117	
+FOOD	2020-06-01	Monday	21:00	1260	Pasta, pan, leche normal	
+DRUG	2020-06-02	Tuesday	8:45	525	DIARIS	
+FOOD	2020-06-02	Tuesday	8:45	525	2 huevos, chocolight	
+GLUC	2020-06-02	Tuesday	9:12	552	161	
+FOOD	2020-06-02	Tuesday	12:14	734	4 panchos	
+DRUG	2020-06-02	Tuesday	12:14	734	DIAF	
+DRUG	2020-06-02	Tuesday	12:14	734	NOVONORM	
+GLUC	2020-06-03	Wednesday	8:34	514	141	
+FOOD	2020-06-03	Wednesday	8:38	518	2huevos, chocolight	
+GLUC	2020-06-03	Wednesday	18:19	1099	74	
+FOOD	2020-06-03	Wednesday	18:52	1132	2 medialunas, collet bombom	
+FOOD	2020-06-03	Wednesday	20:30	1230	Estofado, leche	
+DRUG	2020-06-03	Wednesday	20:30	1230	DIAF	
+DRUG	2020-06-03	Wednesday	20:30	1230	NOVONORM	
+GLUC	2020-06-04	Thursday	8:06	486	128	
+DRUG	2020-06-04	Thursday	8:24	504	DIARIS	
+FOOD	2020-06-04	Thursday	8:24	504	2 huevos, chocolight	
+FOOD	2020-06-04	Thursday	17:45	1065	3 bizcochos, collet bombom	
+GLUC	2020-06-04	Thursday	17:49	1069	112	
+GLUC	2020-06-05	Friday	9:18	558	147	
+DRUG	2020-06-05	Friday	9:18	558	DIARIS	
+FOOD	2020-06-05	Friday	21:26	1286	Cerveza patricia 1 litro, papas lays 150 gr, queso mozarella 300 gr	
+GLUC	2020-06-06	Saturday	9:26	566	173	
+FOOD	2020-06-06	Saturday	9:26	566	2 huevos, chocoligth	
+FOOD	2020-06-06	Saturday	13:00	780	2 empanadas jamon y queso, leche	
+GLUC	2020-06-06	Saturday	21:06	1266	130	
+DRUG	2020-06-06	Saturday	21:30	1290	DIAF	
+FOOD	2020-06-06	Saturday	21:30	1290	Pasta, pan, leche	
+DRUG	2020-06-06	Saturday	21:30	1290	DIAF	
+DRUG	2020-06-06	Saturday	21:30	1290	NOVONORM	
+FOOD	2020-06-06	Saturday	22:30	1350	Cerveza patricia litro, papas ruffles 150 gr, queso mozarella 300 grs	
+GLUC	2020-06-07	Sunday	11:59	719	143	
+DRUG	2020-06-07	Sunday	11:59	719	DIARIS	
+FOOD	2020-06-07	Sunday	12:00	720	2 huevos, chocolight, pan	
+FOOD	2020-06-07	Sunday	13:00	780	Pollo, arroz, papaz, coca light	
+DRUG	2020-06-07	Sunday	13:00	780	DIAF	
+GLUC	2020-06-07	Sunday	19:34	1174	151	
+FOOD	2020-06-07	Sunday	19:34	1174	Milaneesa pescado, pure, coca light	
+FOOD	2020-06-07	Sunday	21:29	1289	.5 lt crvrza patricia, papas ruffles 90 gr	
+GLUC	2020-06-08	Monday	8:08	488	152	
+FOOD	2020-06-08	Monday	8:08	488	2 huevos, chocolight	
+DRUG	2020-06-08	Monday	8:08	488	DIARIS	
+FOOD	2020-06-08	Monday	14:00	840	Carne, arroz, coca light	
+DRUG	2020-06-08	Monday	14:00	840	DIAF	
+GLUC	2020-06-08	Monday	19:48	1188	115	
+GLUC	2020-06-09	Tuesday	8:29	509	129	
+DRUG	2020-06-09	Tuesday	8:29	509	DIARIS	
+FOOD	2020-06-09	Tuesday	8:29	509	2 huevos, chocolight	
+FOOD	2020-06-09	Tuesday	16:00	960	Milanesa carne, coca light	
+FOOD	2020-06-09	Tuesday	16:00	960	Milanesa carne, coca light	
+DRUG	2020-06-09	Tuesday	16:29	989	DIAF	
+GLUC	2020-06-10	Wednesday	8:47	527	145	
+DRUG	2020-06-10	Wednesday	8:47	527	DIARIS	
+FOOD	2020-06-10	Wednesday	8:47	527	2 huevos, chocolight, pan	
+FOOD	2020-06-10	Wednesday	19:30	1170	2 carne molida al pan, coca light	
+DRUG	2020-06-10	Wednesday	19:30	1170	DIAF	
+GLUC	2020-06-11	Thursday	8:30	510	142	
+FOOD	2020-06-11	Thursday	8:30	510	2 huevos, chocolight, pan	
+FOOD	2020-06-11	Thursday	16:00	960	Carne, arroz, levhe descr	
+DRUG	2020-06-11	Thursday	16:00	960	DIAF	
+FOOD	2020-06-11	Thursday	21:00	1260	Gallletas toddy, leche	
+FOOD	2020-06-11	Thursday	22:00	1320	Cerveza lata patricia, papas ruffles	
+GLUC	2020-06-12	Friday	7:58	478	154	
+DRUG	2020-06-12	Friday	7:58	478	DIARIS	
+FOOD	2020-06-12	Friday	7:58	478	2 huevos, chocolight	
+FOOD	2020-06-12	Friday	19:00	1140	4 bizcochos salados, collet bombom	
+FOOD	2020-06-12	Friday	20:31	1231	Galletas toddy, leche	
+FOOD	2020-06-12	Friday	20:31	1231	Papas chuz, cerveza patricia litro, mozarella 300 gr	
+GLUC	2020-06-13	Saturday	9:31	571	181	
+FOOD	2020-06-13	Saturday	9:33	573	2 huevos, chocolight	
+FOOD	2020-06-13	Saturday	14:29	869	Milanesa pescado, papa al horno, leche	
+DRUG	2020-06-13	Saturday	14:30	870	DIAF	
+FOOD	2020-06-13	Saturday	16:18	978	Papas ruffles 90 gr, cerveza patricia 150 ml	
+GLUC	2020-06-13	Saturday	19:56	1196	114	
+FOOD	2020-06-13	Saturday	21:05	1265	2 albondigas, papa al horno,  leche	
+DRUG	2020-06-13	Saturday	21:05	1265	DIAF	
+DRUG	2020-06-13	Saturday	21:05	1265	GLIMEPIRIDA	
+FOOD	2020-06-13	Saturday	22:00	1320	Cerveza patricia 0.5 lt. Queso mozarela 300 gr, papas lays 150 gr	
+GLUC	2020-06-14	Sunday	9:48	588	194	
+FOOD	2020-06-14	Sunday	9:50	590	2 huevos, chocolight	
+FOOD	2020-06-14	Sunday	11:54	714	Papaas ruffles 90 gr,  cerveza patricia .4 lt	
+FOOD	2020-06-14	Sunday	14:00	840	Tacos carne, pollo, coca cola normal	
+GLUC	2020-06-15	Monday	10:54	654	145	
+FOOD	2020-06-15	Monday	14:00	840	Tacos pollo, carne, coca normal	
+DRUG	2020-06-15	Monday	14:00	840	DIAF	
+GLUC	2020-06-15	Monday	17:35	1055	126	
+FOOD	2020-06-15	Monday	21:49	1309	Milanesa pescado, pure, leche descremada	
+DRUG	2020-06-15	Monday	21:49	1309	DIAF	
+DRUG	2020-06-15	Monday	21:49	1309	GLIMEPIRIDA	
+GLUC	2020-06-16	Tuesday	8:16	496	141	
+DRUG	2020-06-16	Tuesday	8:16	496	DIARIS	
+FOOD	2020-06-16	Tuesday	8:21	501	2 huevos, chocolight, pan	
+GLUC	2020-06-16	Tuesday	21:15	1275	100	
+FOOD	2020-06-16	Tuesday	21:15	1275	Milanesa pescado, pure, coca light	
+DRUG	2020-06-16	Tuesday	21:15	1275	DIAF	
+GLUC	2020-06-17	Wednesday	8:10	490	151	
+FOOD	2020-06-17	Wednesday	8:10	490	2 huevos, chocolight	
+GLUC	2020-06-17	Wednesday	17:40	1060	87	
+FOOD	2020-06-17	Wednesday	19:00	1140	2 empanadas jamon y queso, coca light	
+FOOD	2020-06-17	Wednesday	21:01	1261	Milanesa pescado, pure, coca light	
+DRUG	2020-06-17	Wednesday	21:01	1261	DIAF	
+FOOD	2020-06-17	Wednesday	22:00	1320	Cerceza patricia lata, papas ruffles 90 gr	
+FOOD	2020-06-17	Wednesday	22:22	1342	Jugo verde pepino, jejnjibre, perejil, limon, aloe vera	
+DRUG	2020-06-18	Thursday	8:00	480	DIARIS	
+GLUC	2020-06-18	Thursday	8:07	487	128	
+FOOD	2020-06-18	Thursday	16:36	996	Soaghetis con tuco, pan frances, coca light	
+DRUG	2020-06-18	Thursday	16:36	996	DIAF	
+DRUG	2020-06-18	Thursday	16:36	996	NOVONORM	
+GLUC	2020-06-19	Friday	9:01	541	140	
+DRUG	2020-06-19	Friday	9:03	543	DIARIS	
+GLUC	2020-06-19	Friday	17:39	1059	93	
+FOOD	2020-06-19	Friday	21:30	1290	Albondiga, lentejas, papas, arroz, leche deacr	
+DRUG	2020-06-19	Friday	21:30	1290	DIAF	
+FOOD	2020-06-19	Friday	22:43	1363	Cerrveza patricia 0.5 lts, papas. Lays 150 gr, queso mozarella 300 gr	
+FOOD	2020-06-20	Saturday	9:30	570	2 huevos, chocolight	
+GLUC	2020-06-20	Saturday	10:02	602	158	
+FOOD	2020-06-20	Saturday	16:30	990	Spaghetis al tuco, queso parmesano, coca light	
+DRUG	2020-06-20	Saturday	16:30	990	DIAF	
+FOOD	2020-06-20	Saturday	20:00	1200	Albondiga, arroz, oapas, leche descf	
+DRUG	2020-06-20	Saturday	20:00	1200	DIAF	
+GLUC	2020-06-21	Sunday	10:45	645	166	
+FOOD	2020-06-21	Sunday	10:45	645	2 huevos, chocolight	
+FOOD	2020-06-21	Sunday	20:30	1230	Pollo, papas, lentejas, leche descr	
+DRUG	2020-06-21	Sunday	20:30	1230	DIAF	
+FOOD	2020-06-21	Sunday	21:29	1289	Cerveza patricia 0.5 lts, papas ruffles 90 gr	
+GLUC	2020-06-22	Monday	8:50	530	146	
+DRUG	2020-06-22	Monday	8:50	530	DIARIS	
+FOOD	2020-06-22	Monday	8:50	530	2huevos, chocolight	
+FOOD	2020-06-22	Monday	14:02	842	Albondiga, papas al horno, arroz, coca light	
+DRUG	2020-06-22	Monday	14:02	842	DIAF	
+GLUC	2020-06-23	Tuesday	20:14	1214	85	
+FOOD	2020-06-23	Tuesday	20:27	1227	Galletas toddy , chocolight	
+DRUG	2020-06-24	Wednesday	7:40	460	DIARIS	
+FOOD	2020-06-24	Wednesday	7:40	460	2 huevos, chocolight	
+FOOD	2020-06-24	Wednesday	14:00	840	Carne, arroz, coca light	
+FOOD	2020-06-24	Wednesday	16:30	990	Papas ruffles 90 gr, coca light	
+GLUC	2020-06-24	Wednesday	19:22	1162	128	
+DRUG	2020-06-24	Wednesday	21:40	1300	DIAF	
+FOOD	2020-06-24	Wednesday	21:40	1300	Milanesa pescado, pure, 1 empanada jamon y queso, coca light	
+FOOD	2020-06-24	Wednesday	22:30	1350	Cerveza patricia lata, papas ruffles 90 gr	
+FOOD	2020-06-24	Wednesday	22:45	1365	Galletas toddy, leche descr	
+FOOD	2020-06-25	Thursday	14:00	840	Carne, arroz, pure, coca light	
+GLUC	2020-06-25	Thursday	17:02	1022	128	
+FOOD	2020-06-25	Thursday	22:01	1321	Milanesa pescado, pure, leche descr	
+DRUG	2020-06-25	Thursday	22:01	1321	DIAF	
+FOOD	2020-06-25	Thursday	22:30	1350	Cervezanpatricia lata, papas ruffles 90 gr	
+DRUG	2020-06-26	Friday	2:00	120	DIAF	
+FOOD	2020-06-26	Friday	7:30	450	2 huevos, chocolight	
+DRUG	2020-06-26	Friday	7:30	450	DIARIS	
+FOOD	2020-06-26	Friday	7:30	450	Carne, arroz, leche descr	
+GLUC	2020-06-26	Friday	8:28	508	148	
+GLUC	2020-06-26	Friday	18:02	1082	119	
+FOOD	2020-06-26	Friday	23:30	1410	Cerveza patricia 1 litro, queso mozarella 300 gr, papas lays 150 gr	
+DRUG	2020-06-27	Saturday	11:30	690	DIARIS	
+FOOD	2020-06-27	Saturday	11:30	690	2 huevos, chocolight	
+FOOD	2020-06-27	Saturday	20:40	1240	Pollo, chorizo, pure, papas, jugo	
+DRUG	2020-06-27	Saturday	20:40	1240	DIAF	
+FOOD	2020-06-27	Saturday	21:30	1290	Galletas oreo, 200 gr	
+FOOD	2020-06-27	Saturday	23:30	1410	Cerveza patricia 0.5 litros, papas lays 150 gr, queso mozarella 300 gr	
+DRUG	2020-06-28	Sunday	13:17	797	DIARIS	
+GLUC	2020-06-28	Sunday	13:19	799	151	
+GLUC	2020-06-28	Sunday	17:43	1063	93	
+FOOD	2020-06-28	Sunday	19:00	1140	Papas ruffles 90 gr, cerveza patricia 0.5 lt	
+FOOD	2020-06-28	Sunday	21:49	1309	Cerveza patricia lata, papas lays 90 gr	
+GLUC	2020-06-29	Monday	9:48	588	157	
+DRUG	2020-06-29	Monday	9:49	589	DIARIS	
+FOOD	2020-06-29	Monday	14:39	879	Pollo, pure, coca light	
+DRUG	2020-06-29	Monday	14:39	879	DIAF	
+GLUC	2020-06-29	Monday	17:10	1030	135	
+FOOD	2020-06-29	Monday	20:30	1230	2 huevos, chocolight	
+FOOD	2020-06-29	Monday	23:30	1410	Jugo verde pepino, cilantro, genjibre, aloe vera, limon	
+GLUC	2020-06-30	Tuesday	10:00	600	170	
+GLUC	2020-06-30	Tuesday	17:23	1043	90	
+FOOD	2020-06-30	Tuesday	17:32	1052	1 empanada jamon y queso, coca light	
+FOOD	2020-06-30	Tuesday	20:00	1200	Milanesa pescado, papas, coca light	
+FOOD	2020-06-30	Tuesday	22:01	1321	Galletas toddy, leche	
+FOOD	2020-06-30	Tuesday	23:00	1380	Jugo verde pepino, genjibre,	
+DRUG	2020-07-01	Wednesday	8:20	500	DIARIS	
+GLUC	2020-07-01	Wednesday	8:20	500	156	
+FOOD	2020-07-01	Wednesday	13:44	824	Carne,npapas, leche descr	
+DRUG	2020-07-01	Wednesday	13:44	824	DIAF	
+DRUG	2020-07-01	Wednesday	13:44	824	NOVONORM	
+FOOD	2020-07-01	Wednesday	21:33	1293	Milanesa pescado, papas, levhe descr	
+DRUG	2020-07-01	Wednesday	21:34	1294	DIAF	
+FOOD	2020-07-01	Wednesday	22:30	1350	Cerveza patricia lata, papas rusticas 90 gr	
+DRUG	2020-07-02	Thursday	10:20	620	DIARIS	
+GLUC	2020-07-02	Thursday	10:20	620	137	
+FOOD	2020-07-02	Thursday	19:10	1150	112	
+FOOD	2020-07-02	Thursday	20:45	1245	Espaguetis al tuco, pan, leche descr	
+DRUG	2020-07-02	Thursday	20:45	1245	DIAF	
+DRUG	2020-07-02	Thursday	20:45	1245	NOVONORM	
+GLUC	2020-07-03	Friday	11:09	669	131	
+DRUG	2020-07-03	Friday	11:09	669	DIARIS	
+FOOD	2020-07-03	Friday	11:09	669	2 huevos, chocolight	
+GLUC	2020-07-03	Friday	21:24	1284	123	
+FOOD	2020-07-03	Friday	22:07	1327	Milanesa pescado, papa al horno,coca light	
+DRUG	2020-07-03	Friday	22:07	1327	DIAF	
+DRUG	2020-07-03	Friday	22:07	1327	NOVONORM	
+FOOD	2020-07-03	Friday	23:38	1418	Cerveza patricia litro, papas lays 150 gr, queso mozarella 200 gr	
+GLUC	2020-07-04	Saturday	11:38	698	133	
+DRUG	2020-07-04	Saturday	11:39	699	DIARIS	
+FOOD	2020-07-04	Saturday	11:39	699	2 huevos, chocolight, pan pequeño	
+FOOD	2020-07-05	Sunday	11:30	690	2 huevos, chocolight, pan	
+GLUC	2020-07-05	Sunday	17:23	1043	135	
+FOOD	2020-07-05	Sunday	21:25	1285	Milanesa pescado, pure, leche	
+DRUG	2020-07-05	Sunday	21:25	1285	DIAF	
+DRUG	2020-07-05	Sunday	21:25	1285	DIAF	
+FOOD	2020-07-05	Sunday	23:30	1410	Cerveza patricia lata, papas ruffles 95 gr, queso mozarella 168 gr	
+FOOD	2020-07-06	Monday	7:30	450	2 huevos, chocolight, pan	
+GLUC	2020-07-06	Monday	7:51	471	143	
+FOOD	2020-07-06	Monday	14:19	859	Pechuga pollo , arroz, coca light	
+DRUG	2020-07-06	Monday	14:19	859	DIAF	
+GLUC	2020-07-06	Monday	17:28	1048	135	
+FOOD	2020-07-06	Monday	17:31	1051	Empanada jamon y queso, coca light	
+GLUC	2020-07-06	Monday	21:26	1286	118	
+FOOD	2020-07-06	Monday	21:38	1298	Milanesa pescado, pure, coca lught	
+DRUG	2020-07-06	Monday	21:38	1298	DIAF	
+DRUG	2020-07-08	Wednesday	10:30	630	DIARIS	
+FOOD	2020-07-08	Wednesday	10:30	630	2 huevos, chocolight, pan	
+GLUC	2020-07-08	Wednesday	21:33	1293	96	
+DRUG	2020-07-08	Wednesday	22:00	1320	DIAF	
+FOOD	2020-07-08	Wednesday	22:00	1320	Milanesa pescaddo, papas, coca light	
+GLUC	2020-07-09	Thursday	9:18	558	146	
+DRUG	2020-07-09	Thursday	9:18	558	DIARIS	
+FOOD	2020-07-09	Thursday	9:18	558	2 huevos, choocolight, pan	
+FOOD	2020-07-09	Thursday	14:34	874	Carne, arroz, cocalight	
+DRUG	2020-07-09	Thursday	14:34	874	DIAF	
+FOOD	2020-07-09	Thursday	20:15	1215	Milanesa carne, pure, pan, coca light	
+DRUG	2020-07-09	Thursday	20:15	1215	DIAF	
+GLUC	2020-07-10	Friday	8:29	509	138	
+FOOD	2020-07-10	Friday	8:29	509	2 huevos, chocolight, pan	
+DRUG	2020-07-10	Friday	8:29	509	DIARIS	
+GLUC	2020-07-11	Saturday	17:31	1051	107	
+FOOD	2020-07-11	Saturday	19:30	1170	Galletas toddy, leche descr	
+FOOD	2020-07-11	Saturday	20:30	1230	Milanesa carne, pure, leche descr	
+FOOD	2020-07-11	Saturday	23:29	1409	1 cerveza patricia 1 litro, papas lays 150 gr, queso mozarella 300 gr	
+DRUG	2020-07-12	Sunday	12:00	720	DIARIS	
+FOOD	2020-07-12	Sunday	12:00	720	2 huevos, chocolight, pan	
+GLUC	2020-07-13	Monday	8:30	510	135	
+FOOD	2020-07-13	Monday	8:30	510	2 huevos. Chocolight, pan	
+FOOD	2020-07-13	Monday	13:50	830	Milanesa carne, pure, leche descr	
+DRUG	2020-07-13	Monday	13:50	830	DIAF	
+FOOD	2020-07-13	Monday	19:00	1140	3 bizcochos, collet bombom	
+FOOD	2020-07-13	Monday	19:30	1170	3 bizcochos, collet bombom	
+FOOD	2020-07-13	Monday	21:00	1260	Milanesa pescado, chocoligth, pan	
+FOOD	2020-07-14	Tuesday	0:30	30	Cerveza lata budweiser, pPas crunch 90 gr	
+GLUC	2020-07-14	Tuesday	9:23	563	168	
+FOOD	2020-07-14	Tuesday	18:00	1080	Carne molida, pure, limonada	
+FOOD	2020-07-14	Tuesday	20:30	1230	Coca light, papas crunch 90 gr, queso mozarela 100 gr	
+FOOD	2020-07-14	Tuesday	21:00	1260	Milanesa pescado, chocoligth, pan	
+DRUG	2020-07-14	Tuesday	21:00	1260	DIARIS	
+GLUC	2020-07-15	Wednesday	17:56	1076	120	
+FOOD	2020-07-15	Wednesday	21:20	1280	Milanesa carne, pure, pan, coca light	
+DRUG	2020-07-15	Wednesday	21:20	1280	DIAF	
+DRUG	2020-07-15	Wednesday	21:20	1280	GLIMEPIRIDA	
+FOOD	2020-07-15	Wednesday	22:30	1350	1 cerveza kata patricia, papas ruffles 90 gr	
+GLUC	2020-07-16	Thursday	9:31	571	130	
+FOOD	2020-07-16	Thursday	9:32	572	W huevos, chocolight, pan	
+GLUC	2020-07-17	Friday	18:04	1084	103	
+FOOD	2020-07-17	Friday	23:30	1410	Cerveza patricia 1 litro, papas 140 gr, wuesomozarella 300 gr	
+GLUC	2020-07-18	Saturday	12:10	730	165	
+FOOD	2020-07-18	Saturday	22:30	1350	1 cerveza patricia litro, papas lays 150 gr, wyeso mozarella 300 gr	
+DRUG	2020-07-18	Saturday	22:30	1350	DIAF	
+DRUG	2020-07-18	Saturday	22:30	1350	GLIMEPIRIDA	
+GLUC	2020-07-19	Sunday	13:01	781	149	
+DRUG	2020-07-19	Sunday	13:02	782	DIARIS	
+FOOD	2020-07-19	Sunday	13:02	782	2 huevos, chocolight, pan	
+FOOD	2020-07-19	Sunday	15:14	914	Carne, papas rusticas, coca light	
+DRUG	2020-07-19	Sunday	15:14	914	DIAF	

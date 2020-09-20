@@ -1,0 +1,180 @@
+1	GLUC	2020-06-01	17:52	117
+2	GLUC	2020-06-02	9:12	161
+3	DRUG	2020-06-02	8:45	DIARIS
+4	FOOD	2020-06-02	8:45	2 huevos, chocolight
+5	FOOD	2020-06-01	21:00	Pasta, pan, leche normal
+6	FOOD	2020-06-02	12:14	4 panchos
+7	DRUG	2020-06-02	12:14	DIAF
+8	DRUG	2020-06-02	12:14	NOVONORM
+9	GLUC	2020-06-03	8:34	141
+10	FOOD	2020-06-03	8:38	2huevos, chocolight
+11	GLUC	2020-06-03	18:19	74
+12	FOOD	2020-06-03	18:52	2 medialunas, collet bombom
+13	FOOD	2020-06-03	20:30	Estofado, leche
+14	DRUG	2020-06-03	20:30	DIAF
+15	DRUG	2020-06-03	20:30	NOVONORM
+16	GLUC	2020-06-04	8:06	128
+17	DRUG	2020-06-04	8:24	DIARIS
+18	FOOD	2020-06-04	8:24	2 huevos, chocolight
+19	GLUC	2020-06-04	17:49	112
+20	FOOD	2020-06-04	17:45	3 bizcochos, collet bombom
+21	GLUC	2020-06-05	9:18	147
+22	DRUG	2020-06-05	9:18	DIARIS
+23	GLUC	2020-06-06	9:26	173
+24	FOOD	2020-06-06	9:26	2 huevos, chocoligth
+25	FOOD	2020-06-05	21:26	Cerveza patricia 1 litro, papas lays 150 gr, queso mozarella 300 gr
+26	DRUG	2020-06-06	21:30	DIAF
+27	FOOD	2020-06-06	13:00	2 empanadas jamon y queso, leche
+28	GLUC	2020-06-06	21:06	130
+29	FOOD	2020-06-06	21:30	Pasta, pan, leche
+30	DRUG	2020-06-06	21:30	DIAF
+31	DRUG	2020-06-06	21:30	NOVONORM
+32	GLUC	2020-06-07	11:59	143
+33	DRUG	2020-06-07	11:59	DIARIS
+34	FOOD	2020-06-06	22:30	Cerveza patricia litro, papas ruffles 150 gr, queso mozarella 300 grs
+35	FOOD	2020-06-07	12:00	2 huevos, chocolight, pan
+36	FOOD	2020-06-07	13:00	Pollo, arroz, papaz, coca light
+37	DRUG	2020-06-07	13:00	DIAF
+38	GLUC	2020-06-07	19:34	151
+39	FOOD	2020-06-07	19:34	Milaneesa pescado, pure, coca light
+40	GLUC	2020-06-08	8:08	152
+41	FOOD	2020-06-08	8:08	2 huevos, chocolight
+42	DRUG	2020-06-08	8:08	DIARIS
+43	FOOD	2020-06-07	21:29	.5 lt crvrza patricia, papas ruffles 90 gr
+44	FOOD	2020-06-08	14:00	Carne, arroz, coca light
+45	DRUG	2020-06-08	14:00	DIAF
+46	GLUC	2020-06-08	19:48	115
+47	GLUC	2020-06-09	8:29	129
+48	DRUG	2020-06-09	8:29	DIARIS
+49	FOOD	2020-06-09	8:29	2 huevos, chocolight
+50	FOOD	2020-06-09	16:00	Milanesa carne, coca light
+51	FOOD	2020-06-09	16:00	Milanesa carne, coca light
+52	DRUG	2020-06-09	16:29	DIAF
+53	GLUC	2020-06-10	8:47	145
+54	DRUG	2020-06-10	8:47	DIARIS
+55	FOOD	2020-06-10	8:47	2 huevos, chocolight, pan
+56	FOOD	2020-06-10	19:30	2 carne molida al pan, coca light
+57	DRUG	2020-06-10	19:30	DIAF
+58	GLUC	2020-06-11	8:30	142
+59	FOOD	2020-06-11	8:30	2 huevos, chocolight, pan
+60	FOOD	2020-06-11	16:00	Carne, arroz, levhe descr
+61	DRUG	2020-06-11	16:00	DIAF
+62	GLUC	2020-06-12	7:58	154
+63	DRUG	2020-06-12	7:58	DIARIS
+64	FOOD	2020-06-12	7:58	2 huevos, chocolight
+65	FOOD	2020-06-11	21:00	Gallletas toddy, leche
+66	FOOD	2020-06-11	22:00	Cerveza lata patricia, papas ruffles
+67	GLUC	2020-06-13	9:31	181
+68	FOOD	2020-06-12	20:31	Galletas toddy, leche
+69	FOOD	2020-06-12	20:31	Papas chuz, cerveza patricia litro, mozarella 300 gr
+70	FOOD	2020-06-13	9:33	2 huevos, chocolight
+71	FOOD	2020-06-12	19:00	4 bizcochos salados, collet bombom
+72	FOOD	2020-06-13	14:29	Milanesa pescado, papa al horno, leche
+73	DRUG	2020-06-13	14:30	DIAF
+74	FOOD	2020-06-13	16:18	Papas ruffles 90 gr, cerveza patricia 150 ml
+75	GLUC	2020-06-13	19:56	114
+76	FOOD	2020-06-13	21:05	2 albondigas, papa al horno,  leche
+77	DRUG	2020-06-13	21:05	DIAF
+78	DRUG	2020-06-13	21:05	GLIMEPIRIDA
+79	GLUC	2020-06-14	9:48	194
+80	FOOD	2020-06-13	22:00	Cerveza patricia 0.5 lt. Queso mozarela 300 gr, papas lays 150 gr
+81	FOOD	2020-06-14	9:50	2 huevos, chocolight
+82	GLUC	2020-06-15	10:54	145
+83	FOOD	2020-06-14	14:00	Tacos carne, pollo, coca cola normal
+84	FOOD	2020-06-14	11:54	Papaas ruffles 90 gr,  cerveza patricia .4 lt
+85	GLUC	2020-06-15	17:35	126
+86	FOOD	2020-06-15	14:00	Tacos pollo, carne, coca normal
+87	DRUG	2020-06-15	14:00	DIAF
+88	FOOD	2020-06-15	21:49	Milanesa pescado, pure, leche descremada
+89	DRUG	2020-06-15	21:49	DIAF
+90	DRUG	2020-06-15	21:49	GLIMEPIRIDA
+91	GLUC	2020-06-16	8:16	141
+92	DRUG	2020-06-16	8:16	DIARIS
+93	FOOD	2020-06-16	8:21	2 huevos, chocolight, pan
+94	GLUC	2020-06-16	21:15	100
+95	FOOD	2020-06-16	21:15	Milanesa pescado, pure, coca light
+96	DRUG	2020-06-16	21:15	DIAF
+97	GLUC	2020-06-17	8:10	151
+98	FOOD	2020-06-17	8:10	2 huevos, chocolight
+99	GLUC	2020-06-17	17:40	87
+100	FOOD	2020-06-17	19:00	2 empanadas jamon y queso, coca light
+101	FOOD	2020-06-17	21:01	Milanesa pescado, pure, coca light
+102	DRUG	2020-06-17	21:01	DIAF
+103	FOOD	2020-06-17	22:22	Jugo verde pepino, jejnjibre, perejil, limon, aloe vera
+104	FOOD	2020-06-17	22:00	Cerceza patricia lata, papas ruffles 90 gr
+105	GLUC	2020-06-18	8:07	128
+106	DRUG	2020-06-18	8:00	DIARIS
+107	FOOD	2020-06-18	16:36	Soaghetis con tuco, pan frances, coca light
+108	DRUG	2020-06-18	16:36	DIAF
+109	DRUG	2020-06-18	16:36	NOVONORM
+110	GLUC	2020-06-19	9:01	140
+111	DRUG	2020-06-19	9:03	DIARIS
+112	GLUC	2020-06-19	17:39	93
+113	FOOD	2020-06-19	21:30	Albondiga, lentejas, papas, arroz, leche deacr
+114	DRUG	2020-06-19	21:30	DIAF
+115	GLUC	2020-06-20	10:02	158
+116	FOOD	2020-06-20	9:30	2 huevos, chocolight
+117	FOOD	2020-06-19	22:43	Cerrveza patricia 0.5 lts, papas. Lays 150 gr, queso mozarella 300 gr
+118	FOOD	2020-06-20	16:30	Spaghetis al tuco, queso parmesano, coca light
+119	DRUG	2020-06-20	16:30	DIAF
+120	FOOD	2020-06-20	20:00	Albondiga, arroz, oapas, leche descf
+121	DRUG	2020-06-20	20:00	DIAF
+122	GLUC	2020-06-21	10:45	166
+123	FOOD	2020-06-21	10:45	2 huevos, chocolight
+124	FOOD	2020-06-21	20:30	Pollo, papas, lentejas, leche descr
+125	DRUG	2020-06-21	20:30	DIAF
+126	FOOD	2020-06-21	21:29	Cerveza patricia 0.5 lts, papas ruffles 90 gr
+127	GLUC	2020-06-22	8:50	146
+128	DRUG	2020-06-22	8:50	DIARIS
+129	FOOD	2020-06-22	8:50	2huevos, chocolight
+130	FOOD	2020-06-22	14:02	Albondiga, papas al horno, arroz, coca light
+131	DRUG	2020-06-22	14:02	DIAF
+132	GLUC	2020-06-23	20:14	85
+133	FOOD	2020-06-23	20:27	Galletas toddy , chocolight
+134	DRUG	2020-06-24	7:40	DIARIS
+135	FOOD	2020-06-24	7:40	2 huevos, chocolight
+136	FOOD	2020-06-24	16:30	Papas ruffles 90 gr, coca light
+137	FOOD	2020-06-24	14:00	Carne, arroz, coca light
+138	GLUC	2020-06-24	19:22	128
+139	DRUG	2020-06-24	21:40	DIAF
+140	FOOD	2020-06-24	21:40	Milanesa pescado, pure, 1 empanada jamon y queso, coca light
+141	FOOD	2020-06-24	22:30	Cerveza patricia lata, papas ruffles 90 gr
+142	FOOD	2020-06-25	14:00	Carne, arroz, pure, coca light
+143	GLUC	2020-06-25	17:02	128
+144	FOOD	2020-06-24	22:45	Galletas toddy, leche descr
+145	FOOD	2020-06-25	22:01	Milanesa pescado, pure, leche descr
+146	DRUG	2020-06-25	22:01	DIAF
+147	GLUC	2020-06-26	8:28	148
+148	FOOD	2020-06-25	22:30	Cervezanpatricia lata, papas ruffles 90 gr
+149	GLUC	2020-06-26	18:02	119
+150	FOOD	2020-06-26	7:30	2 huevos, chocolight
+151	DRUG	2020-06-26	7:30	DIARIS
+152	FOOD	2020-06-26	7:30	Carne, arroz, leche descr
+153	DRUG	2020-06-26	2:00	DIAF
+154	FOOD	2020-06-26	23:30	Cerveza patricia 1 litro, queso mozarella 300 gr, papas lays 150 gr
+155	DRUG	2020-06-27	11:30	DIARIS
+156	FOOD	2020-06-27	11:30	2 huevos, chocolight
+157	FOOD	2020-06-27	20:40	Pollo, chorizo, pure, papas, jugo
+158	DRUG	2020-06-27	20:40	DIAF
+159	FOOD	2020-06-27	23:30	Cerveza patricia 0.5 litros, papas lays 150 gr, queso mozarella 300 gr
+160	DRUG	2020-06-28	13:17	DIARIS
+161	FOOD	2020-06-27	21:30	Galletas oreo, 200 gr
+162	GLUC	2020-06-28	13:19	151
+163	GLUC	2020-06-28	17:43	93
+164	FOOD	2020-06-28	19:00	Papas ruffles 90 gr, cerveza patricia 0.5 lt
+165	GLUC	2020-06-29	9:48	157
+166	FOOD	2020-06-28	21:49	Cerveza patricia lata, papas lays 90 gr
+167	DRUG	2020-06-29	9:49	DIARIS
+168	FOOD	2020-06-29	20:30	2 huevos, chocolight
+169	FOOD	2020-06-29	14:39	Pollo, pure, coca light
+170	DRUG	2020-06-29	14:39	DIAF
+171	GLUC	2020-06-29	17:10	135
+172	GLUC	2020-06-30	10:00	170
+173	GLUC	2020-06-30	17:23	90
+174	FOOD	2020-06-30	17:32	1 empanada jamon y queso, coca light
+175	FOOD	2020-06-29	23:30	Jugo verde pepino, cilantro, genjibre, aloe vera, limon
+176	DRUG	2020-07-01	8:20	DIARIS
+177	GLUC	2020-07-01	8:20	156
+178	FOOD	2020-06-30	22:01	Galletas toddy, leche
+179	FOOD	2020-06-30	20:00	Milanesa pescado, papas, coca light
+180	FOOD	2020-06-30	23:00	Jugo verde pepino, genjibre,

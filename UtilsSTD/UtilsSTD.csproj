@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageId>CCYUtils</PackageId>
+    <Authors>Cesar Castano</Authors>
+    <Company></Company>
+    <Product>Utilities</Product>
+    <Description>Miscelaneous extension routines for .NET C#</Description>
+    <RepositoryUrl>https://github.com/castanc/NET_STD_Common/tree/master/UtilsSTD</RepositoryUrl>
+    <PackageTags>c# utils</PackageTags>
+    <PackageReleaseNotes>First release</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="System.Text.Json" Version="4.7.2" />
+  </ItemGroup>
+
+</Project>

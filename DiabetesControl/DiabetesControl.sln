@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiabetesControl", "DiabetesControl.csproj", "{85DADE89-EF9C-47D1-A0C4-3850CA420403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "..\Business\Business.csproj", "{74F215C5-7957-4B57-8D22-F8AF7919CC2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UtilsSTD", "..\UtilsSTD\UtilsSTD.csproj", "{D878AD6A-A5F4-4C93-91BB-B1B1555A7539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85DADE89-EF9C-47D1-A0C4-3850CA420403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85DADE89-EF9C-47D1-A0C4-3850CA420403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85DADE89-EF9C-47D1-A0C4-3850CA420403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85DADE89-EF9C-47D1-A0C4-3850CA420403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F215C5-7957-4B57-8D22-F8AF7919CC2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F215C5-7957-4B57-8D22-F8AF7919CC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F215C5-7957-4B57-8D22-F8AF7919CC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F215C5-7957-4B57-8D22-F8AF7919CC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D878AD6A-A5F4-4C93-91BB-B1B1555A7539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D878AD6A-A5F4-4C93-91BB-B1B1555A7539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D878AD6A-A5F4-4C93-91BB-B1B1555A7539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D878AD6A-A5F4-4C93-91BB-B1B1555A7539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E306549F-006B-479B-8146-B500A6854820}
+	EndGlobalSection
+EndGlobal

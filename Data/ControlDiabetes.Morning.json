@@ -1,0 +1,3290 @@
+[
+  {
+    "Id": 13,
+    "RecType": "DRUG",
+    "Date": "0001-01-01T00:00:00",
+    "Value": 0,
+    "AdditionalData": "NOVONORM",
+    "Glucose": 0
+  },
+  {
+    "Id": 17,
+    "RecType": "GLUC",
+    "Date": "0001-01-01T00:00:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 75
+  },
+  {
+    "Id": 4,
+    "RecType": "PRESURE",
+    "Date": "2019-10-31T09:45:00",
+    "Value": 0,
+    "AdditionalData": "126",
+    "Glucose": 0
+  },
+  {
+    "Id": 5,
+    "RecType": "GLUC",
+    "Date": "2019-10-31T10:26:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 110
+  },
+  {
+    "Id": 19,
+    "RecType": "FOOD",
+    "Date": "2019-11-01T02:30:00",
+    "Value": 0,
+    "AdditionalData": "3 empanadas, coca light",
+    "Glucose": 0
+  },
+  {
+    "Id": 20,
+    "RecType": "DRUG",
+    "Date": "2019-11-01T03:30:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 21,
+    "RecType": "FOOD",
+    "Date": "2019-11-01T04:00:00",
+    "Value": 0,
+    "AdditionalData": "Empa ada, coca light, galleta bombo",
+    "Glucose": 0
+  },
+  {
+    "Id": 16,
+    "RecType": "PRESURE",
+    "Date": "2019-11-01T08:10:00",
+    "Value": 0,
+    "AdditionalData": "135",
+    "Glucose": 0
+  },
+  {
+    "Id": 18,
+    "RecType": "DRUG",
+    "Date": "2019-11-01T08:26:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 23,
+    "RecType": "DRUG",
+    "Date": "2019-11-02T02:00:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 24,
+    "RecType": "GLUC",
+    "Date": "2019-11-02T11:12:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 107
+  },
+  {
+    "Id": 27,
+    "RecType": "PRESURE",
+    "Date": "2019-11-03T11:07:00",
+    "Value": 0,
+    "AdditionalData": "148",
+    "Glucose": 0
+  },
+  {
+    "Id": 28,
+    "RecType": "GLUC",
+    "Date": "2019-11-03T11:20:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 112
+  },
+  {
+    "Id": 29,
+    "RecType": "FOOD",
+    "Date": "2019-11-03T11:35:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, pan con queso crema, chicolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 30,
+    "RecType": "DRUG",
+    "Date": "2019-11-03T11:35:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 33,
+    "RecType": "PRESURE",
+    "Date": "2019-11-04T08:18:00",
+    "Value": 0,
+    "AdditionalData": "129",
+    "Glucose": 0
+  },
+  {
+    "Id": 34,
+    "RecType": "GLUC",
+    "Date": "2019-11-04T08:21:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 110
+  },
+  {
+    "Id": 41,
+    "RecType": "PRESURE",
+    "Date": "2019-11-05T08:08:00",
+    "Value": 0,
+    "AdditionalData": "143",
+    "Glucose": 0
+  },
+  {
+    "Id": 42,
+    "RecType": "GLUC",
+    "Date": "2019-11-05T08:08:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 121
+  },
+  {
+    "Id": 43,
+    "RecType": "DRUG",
+    "Date": "2019-11-05T08:14:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 48,
+    "RecType": "PRESURE",
+    "Date": "2019-11-06T07:47:00",
+    "Value": 0,
+    "AdditionalData": "118",
+    "Glucose": 0
+  },
+  {
+    "Id": 49,
+    "RecType": "DRUG",
+    "Date": "2019-11-06T07:51:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 50,
+    "RecType": "GLUC",
+    "Date": "2019-11-06T07:52:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 109
+  },
+  {
+    "Id": 56,
+    "RecType": "PRESURE",
+    "Date": "2019-11-07T08:06:00",
+    "Value": 0,
+    "AdditionalData": "135",
+    "Glucose": 0
+  },
+  {
+    "Id": 57,
+    "RecType": "GLUC",
+    "Date": "2019-11-07T08:15:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 124
+  },
+  {
+    "Id": 59,
+    "RecType": "FOOD",
+    "Date": "2019-11-07T09:30:00",
+    "Value": 0,
+    "AdditionalData": "4 bizcochos, collet bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 67,
+    "RecType": "FOOD",
+    "Date": "2019-11-07T11:30:00",
+    "Value": 0,
+    "AdditionalData": "Cerveza lata, lAts 150",
+    "Glucose": 0
+  },
+  {
+    "Id": 65,
+    "RecType": "PRESURE",
+    "Date": "2019-11-08T07:44:00",
+    "Value": 0,
+    "AdditionalData": "136",
+    "Glucose": 0
+  },
+  {
+    "Id": 66,
+    "RecType": "GLUC",
+    "Date": "2019-11-08T07:48:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 104
+  },
+  {
+    "Id": 68,
+    "RecType": "DRUG",
+    "Date": "2019-11-08T07:54:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 74,
+    "RecType": "GLUC",
+    "Date": "2019-11-09T11:11:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 125
+  },
+  {
+    "Id": 77,
+    "RecType": "PRESURE",
+    "Date": "2019-11-10T10:33:00",
+    "Value": 0,
+    "AdditionalData": "122",
+    "Glucose": 0
+  },
+  {
+    "Id": 78,
+    "RecType": "GLUC",
+    "Date": "2019-11-10T10:51:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 119
+  },
+  {
+    "Id": 81,
+    "RecType": "DRUG",
+    "Date": "2019-11-10T10:52:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 82,
+    "RecType": "PRESURE",
+    "Date": "2019-11-11T08:11:00",
+    "Value": 0,
+    "AdditionalData": "121",
+    "Glucose": 0
+  },
+  {
+    "Id": 83,
+    "RecType": "GLUC",
+    "Date": "2019-11-11T08:15:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 130
+  },
+  {
+    "Id": 86,
+    "RecType": "FOOD",
+    "Date": "2019-11-11T09:45:00",
+    "Value": 0,
+    "AdditionalData": "3 bizcochos, collet bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 87,
+    "RecType": "FOOD",
+    "Date": "2019-11-11T10:16:00",
+    "Value": 0,
+    "AdditionalData": "Toblerone pequeño",
+    "Glucose": 0
+  },
+  {
+    "Id": 95,
+    "RecType": "FOOD",
+    "Date": "2019-11-12T09:30:00",
+    "Value": 0,
+    "AdditionalData": "3 bizcochos, collet bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 98,
+    "RecType": "PRESURE",
+    "Date": "2019-11-13T08:06:00",
+    "Value": 0,
+    "AdditionalData": "138",
+    "Glucose": 0
+  },
+  {
+    "Id": 99,
+    "RecType": "GLUC",
+    "Date": "2019-11-13T08:38:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 144
+  },
+  {
+    "Id": 101,
+    "RecType": "FOOD",
+    "Date": "2019-11-13T09:30:00",
+    "Value": 0,
+    "AdditionalData": "3 bizcochos, collet bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 122,
+    "RecType": "WGT",
+    "Date": "2019-11-17T09:00:00",
+    "Value": 0,
+    "AdditionalData": "90.4",
+    "Glucose": 0
+  },
+  {
+    "Id": 120,
+    "RecType": "FOOD",
+    "Date": "2019-11-17T09:30:00",
+    "Value": 0,
+    "AdditionalData": "Lata cerveza, lays 95",
+    "Glucose": 0
+  },
+  {
+    "Id": 116,
+    "RecType": "GLUC",
+    "Date": "2019-11-17T10:30:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 129
+  },
+  {
+    "Id": 117,
+    "RecType": "FOOD",
+    "Date": "2019-11-17T10:30:00",
+    "Value": 0,
+    "AdditionalData": "",
+    "Glucose": 0
+  },
+  {
+    "Id": 118,
+    "RecType": "DRUG",
+    "Date": "2019-11-17T10:30:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 121,
+    "RecType": "GLUC",
+    "Date": "2019-11-18T08:20:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 127
+  },
+  {
+    "Id": 123,
+    "RecType": "DRUG",
+    "Date": "2019-11-18T08:25:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 131,
+    "RecType": "DRUG",
+    "Date": "2019-11-19T08:25:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 132,
+    "RecType": "GLUC",
+    "Date": "2019-11-19T08:26:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 113
+  },
+  {
+    "Id": 133,
+    "RecType": "DRUG",
+    "Date": "2019-11-19T08:26:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 142,
+    "RecType": "FOOD",
+    "Date": "2019-11-20T00:00:00",
+    "Value": 0,
+    "AdditionalData": "2 empamadas kamon y wuezo, leche",
+    "Glucose": 0
+  },
+  {
+    "Id": 143,
+    "RecType": "DRUG",
+    "Date": "2019-11-20T00:43:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 144,
+    "RecType": "PRESURE",
+    "Date": "2019-11-20T07:58:00",
+    "Value": 0,
+    "AdditionalData": "106",
+    "Glucose": 0
+  },
+  {
+    "Id": 145,
+    "RecType": "GLUC",
+    "Date": "2019-11-20T08:01:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 104
+  },
+  {
+    "Id": 146,
+    "RecType": "DRUG",
+    "Date": "2019-11-20T08:04:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 148,
+    "RecType": "FOOD",
+    "Date": "2019-11-20T09:30:00",
+    "Value": 0,
+    "AdditionalData": "3 bicochos, colket bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 156,
+    "RecType": "DRUG",
+    "Date": "2019-11-21T00:23:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 157,
+    "RecType": "PRESURE",
+    "Date": "2019-11-21T08:01:00",
+    "Value": 0,
+    "AdditionalData": "110",
+    "Glucose": 0
+  },
+  {
+    "Id": 159,
+    "RecType": "GLUC",
+    "Date": "2019-11-21T08:05:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 109
+  },
+  {
+    "Id": 160,
+    "RecType": "DRUG",
+    "Date": "2019-11-21T08:05:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 161,
+    "RecType": "FOOD",
+    "Date": "2019-11-21T09:43:00",
+    "Value": 0,
+    "AdditionalData": "3 bizcochos, collet bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 172,
+    "RecType": "PRESURE",
+    "Date": "2019-11-22T08:36:00",
+    "Value": 0,
+    "AdditionalData": "135",
+    "Glucose": 0
+  },
+  {
+    "Id": 173,
+    "RecType": "DRUG",
+    "Date": "2019-11-22T08:39:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 174,
+    "RecType": "GLUC",
+    "Date": "2019-11-22T08:39:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 94
+  },
+  {
+    "Id": 175,
+    "RecType": "FOOD",
+    "Date": "2019-11-22T09:35:00",
+    "Value": 0,
+    "AdditionalData": "3 biCochos, colket bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 185,
+    "RecType": "FOOD",
+    "Date": "2019-11-23T11:30:00",
+    "Value": 0,
+    "AdditionalData": "35 gr kofler",
+    "Glucose": 0
+  },
+  {
+    "Id": 183,
+    "RecType": "PRESURE",
+    "Date": "2019-11-23T11:33:00",
+    "Value": 0,
+    "AdditionalData": "109",
+    "Glucose": 0
+  },
+  {
+    "Id": 189,
+    "RecType": "DRUG",
+    "Date": "2019-11-24T00:07:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 190,
+    "RecType": "DRUG",
+    "Date": "2019-11-24T00:09:00",
+    "Value": 0,
+    "AdditionalData": "MICARDIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 191,
+    "RecType": "DRUG",
+    "Date": "2019-11-24T09:42:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 192,
+    "RecType": "GLUC",
+    "Date": "2019-11-24T09:42:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 129
+  },
+  {
+    "Id": 193,
+    "RecType": "PRESURE",
+    "Date": "2019-11-24T09:43:00",
+    "Value": 0,
+    "AdditionalData": "118",
+    "Glucose": 0
+  },
+  {
+    "Id": 194,
+    "RecType": "FOOD",
+    "Date": "2019-11-24T09:50:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 211,
+    "RecType": "FOOD",
+    "Date": "2020-01-12T01:27:00",
+    "Value": 0,
+    "AdditionalData": "2 cervezas patricia litro, papas ruffles 150 gr",
+    "Glucose": 0
+  },
+  {
+    "Id": 982,
+    "RecType": "GLUC",
+    "Date": "2020-01-13T10:42:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 128
+  },
+  {
+    "Id": 226,
+    "RecType": "FOOD",
+    "Date": "2020-01-14T01:01:00",
+    "Value": 0,
+    "AdditionalData": "2 empanadas jamon y wueso, coca light",
+    "Glucose": 0
+  },
+  {
+    "Id": 227,
+    "RecType": "DRUG",
+    "Date": "2020-01-14T01:01:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 228,
+    "RecType": "DRUG",
+    "Date": "2020-01-14T09:38:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 229,
+    "RecType": "FOOD",
+    "Date": "2020-01-14T09:38:00",
+    "Value": 0,
+    "AdditionalData": "2 hievos, chocolate",
+    "Glucose": 0
+  },
+  {
+    "Id": 984,
+    "RecType": "GLUC",
+    "Date": "2020-01-14T09:38:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 93
+  },
+  {
+    "Id": 242,
+    "RecType": "DRUG",
+    "Date": "2020-01-16T01:35:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 990,
+    "RecType": "GLUC",
+    "Date": "2020-01-16T10:43:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 106
+  },
+  {
+    "Id": 243,
+    "RecType": "DRUG",
+    "Date": "2020-01-16T10:47:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 249,
+    "RecType": "DRUG",
+    "Date": "2020-01-17T11:25:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 993,
+    "RecType": "GLUC",
+    "Date": "2020-01-17T11:25:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 113
+  },
+  {
+    "Id": 250,
+    "RecType": "FOOD",
+    "Date": "2020-01-17T11:54:00",
+    "Value": 0,
+    "AdditionalData": "2 hurvis, chicolate, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 251,
+    "RecType": "DRUG",
+    "Date": "2020-01-17T11:54:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 272,
+    "RecType": "FOOD",
+    "Date": "2020-01-20T02:12:00",
+    "Value": 0,
+    "AdditionalData": "34 gr kofler",
+    "Glucose": 0
+  },
+  {
+    "Id": 1002,
+    "RecType": "GLUC",
+    "Date": "2020-01-20T10:11:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 110
+  },
+  {
+    "Id": 275,
+    "RecType": "DRUG",
+    "Date": "2020-01-21T09:38:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1003,
+    "RecType": "GLUC",
+    "Date": "2020-01-21T09:38:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 112
+  },
+  {
+    "Id": 282,
+    "RecType": "DRUG",
+    "Date": "2020-01-24T09:05:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1006,
+    "RecType": "GLUC",
+    "Date": "2020-01-24T09:05:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 111
+  },
+  {
+    "Id": 1007,
+    "RecType": "GLUC",
+    "Date": "2020-01-25T11:42:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 116
+  },
+  {
+    "Id": 286,
+    "RecType": "EXE",
+    "Date": "2020-01-27T01:28:00",
+    "Value": 0,
+    "AdditionalData": "2000",
+    "Glucose": 0
+  },
+  {
+    "Id": 287,
+    "RecType": "WGT",
+    "Date": "2020-01-27T01:28:00",
+    "Value": 0,
+    "AdditionalData": "90.5",
+    "Glucose": 0
+  },
+  {
+    "Id": 285,
+    "RecType": "FOOD",
+    "Date": "2020-01-27T07:30:00",
+    "Value": 0,
+    "AdditionalData": "34 gr kofler",
+    "Glucose": 0
+  },
+  {
+    "Id": 288,
+    "RecType": "DRUG",
+    "Date": "2020-01-27T08:52:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1008,
+    "RecType": "GLUC",
+    "Date": "2020-01-27T08:53:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 111
+  },
+  {
+    "Id": 1010,
+    "RecType": "GLUC",
+    "Date": "2020-01-30T00:00:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 173
+  },
+  {
+    "Id": 1012,
+    "RecType": "GLUC",
+    "Date": "2020-01-31T08:17:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 113
+  },
+  {
+    "Id": 294,
+    "RecType": "FOOD",
+    "Date": "2020-01-31T09:00:00",
+    "Value": 0,
+    "AdditionalData": "3 bizcochos, collet bombin",
+    "Glucose": 0
+  },
+  {
+    "Id": 312,
+    "RecType": "FOOD",
+    "Date": "2020-02-05T00:36:00",
+    "Value": 0,
+    "AdditionalData": "Asado",
+    "Glucose": 0
+  },
+  {
+    "Id": 319,
+    "RecType": "FOOD",
+    "Date": "2020-02-06T10:05:00",
+    "Value": 0,
+    "AdditionalData": "3 bizcochis, collet bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 326,
+    "RecType": "FOOD",
+    "Date": "2020-02-07T09:44:00",
+    "Value": 0,
+    "AdditionalData": "3 bizcochis, collet bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 328,
+    "RecType": "EXE",
+    "Date": "2020-02-08T00:13:00",
+    "Value": 0,
+    "AdditionalData": "2000",
+    "Glucose": 0
+  },
+  {
+    "Id": 329,
+    "RecType": "WGT",
+    "Date": "2020-02-08T00:13:00",
+    "Value": 0,
+    "AdditionalData": "89.1",
+    "Glucose": 0
+  },
+  {
+    "Id": 1022,
+    "RecType": "GLUC",
+    "Date": "2020-02-08T00:13:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 96
+  },
+  {
+    "Id": 330,
+    "RecType": "FOOD",
+    "Date": "2020-02-08T03:10:00",
+    "Value": 0,
+    "AdditionalData": "Cerveza patricia litro, papas lays 150 gr",
+    "Glucose": 0
+  },
+  {
+    "Id": 1027,
+    "RecType": "GLUC",
+    "Date": "2020-02-10T08:35:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 131
+  },
+  {
+    "Id": 342,
+    "RecType": "FOOD",
+    "Date": "2020-02-10T09:20:00",
+    "Value": 0,
+    "AdditionalData": "3 bizcochis, collet bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 349,
+    "RecType": "FOOD",
+    "Date": "2020-02-11T01:05:00",
+    "Value": 0,
+    "AdditionalData": "Varne, arroz, agua",
+    "Glucose": 0
+  },
+  {
+    "Id": 350,
+    "RecType": "DRUG",
+    "Date": "2020-02-11T01:05:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 1029,
+    "RecType": "GLUC",
+    "Date": "2020-02-11T09:21:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 104
+  },
+  {
+    "Id": 356,
+    "RecType": "FOOD",
+    "Date": "2020-02-11T10:30:00",
+    "Value": 0,
+    "AdditionalData": "34 gr cofler",
+    "Glucose": 0
+  },
+  {
+    "Id": 357,
+    "RecType": "DRUG",
+    "Date": "2020-02-11T10:30:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 1030,
+    "RecType": "GLUC",
+    "Date": "2020-02-12T08:32:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 103
+  },
+  {
+    "Id": 358,
+    "RecType": "DRUG",
+    "Date": "2020-02-12T08:33:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 359,
+    "RecType": "FOOD",
+    "Date": "2020-02-12T09:42:00",
+    "Value": 0,
+    "AdditionalData": "3 bizcochos, collet bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 1032,
+    "RecType": "GLUC",
+    "Date": "2020-02-13T09:20:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 118
+  },
+  {
+    "Id": 366,
+    "RecType": "FOOD",
+    "Date": "2020-02-13T09:56:00",
+    "Value": 0,
+    "AdditionalData": "3 bizcochos, collet bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 1034,
+    "RecType": "GLUC",
+    "Date": "2020-02-14T09:09:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 98
+  },
+  {
+    "Id": 372,
+    "RecType": "DRUG",
+    "Date": "2020-02-14T09:13:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 373,
+    "RecType": "FOOD",
+    "Date": "2020-02-14T09:45:00",
+    "Value": 0,
+    "AdditionalData": "3 bizcochos, collet bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 379,
+    "RecType": "FOOD",
+    "Date": "2020-02-15T01:30:00",
+    "Value": 0,
+    "AdditionalData": "Cerveza pateicia litro, papS lays 150 gr",
+    "Glucose": 0
+  },
+  {
+    "Id": 1037,
+    "RecType": "GLUC",
+    "Date": "2020-02-15T11:53:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 116
+  },
+  {
+    "Id": 390,
+    "RecType": "FOOD",
+    "Date": "2020-02-17T00:30:00",
+    "Value": 0,
+    "AdditionalData": "Cerveza patricia lata pew, papas lays 90 gr",
+    "Glucose": 0
+  },
+  {
+    "Id": 391,
+    "RecType": "FOOD",
+    "Date": "2020-02-17T02:28:00",
+    "Value": 0,
+    "AdditionalData": "34 gr kofler",
+    "Glucose": 0
+  },
+  {
+    "Id": 392,
+    "RecType": "FOOD",
+    "Date": "2020-02-17T10:15:00",
+    "Value": 0,
+    "AdditionalData": "Cuca  collet bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 400,
+    "RecType": "FOOD",
+    "Date": "2020-02-18T10:00:00",
+    "Value": 0,
+    "AdditionalData": "Galletas integrales, collet bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 407,
+    "RecType": "DRUG",
+    "Date": "2020-02-19T07:30:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 408,
+    "RecType": "FOOD",
+    "Date": "2020-02-19T10:00:00",
+    "Value": 0,
+    "AdditionalData": "Alfajorcito, collet bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 415,
+    "RecType": "DRUG",
+    "Date": "2020-02-21T08:00:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1043,
+    "RecType": "GLUC",
+    "Date": "2020-02-21T08:01:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 117
+  },
+  {
+    "Id": 416,
+    "RecType": "FOOD",
+    "Date": "2020-02-21T08:55:00",
+    "Value": 0,
+    "AdditionalData": "3 bizcochis, collet",
+    "Glucose": 0
+  },
+  {
+    "Id": 428,
+    "RecType": "DRUG",
+    "Date": "2020-02-24T07:30:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 429,
+    "RecType": "FOOD",
+    "Date": "2020-02-24T10:00:00",
+    "Value": 0,
+    "AdditionalData": "3 bizcochos, collwt bombin",
+    "Glucose": 0
+  },
+  {
+    "Id": 436,
+    "RecType": "WGT",
+    "Date": "2020-03-04T00:06:00",
+    "Value": 0,
+    "AdditionalData": "91.1",
+    "Glucose": 0
+  },
+  {
+    "Id": 437,
+    "RecType": "FOOD",
+    "Date": "2020-03-04T00:06:00",
+    "Value": 0,
+    "AdditionalData": "Papas kays, agua",
+    "Glucose": 0
+  },
+  {
+    "Id": 438,
+    "RecType": "DRUG",
+    "Date": "2020-03-04T00:06:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 439,
+    "RecType": "DRUG",
+    "Date": "2020-03-04T08:00:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 440,
+    "RecType": "FOOD",
+    "Date": "2020-03-04T09:20:00",
+    "Value": 0,
+    "AdditionalData": "3 bizcochos, colket",
+    "Glucose": 0
+  },
+  {
+    "Id": 445,
+    "RecType": "FOOD",
+    "Date": "2020-03-06T10:05:00",
+    "Value": 0,
+    "AdditionalData": "3 buzcochos, collet",
+    "Glucose": 0
+  },
+  {
+    "Id": 457,
+    "RecType": "DRUG",
+    "Date": "2020-03-08T11:30:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 456,
+    "RecType": "DRUG",
+    "Date": "2020-03-09T07:30:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 453,
+    "RecType": "FOOD",
+    "Date": "2020-03-09T09:30:00",
+    "Value": 0,
+    "AdditionalData": "Galleta, colket",
+    "Glucose": 0
+  },
+  {
+    "Id": 459,
+    "RecType": "FOOD",
+    "Date": "2020-03-10T09:55:00",
+    "Value": 0,
+    "AdditionalData": "3 bizcochos, collet",
+    "Glucose": 0
+  },
+  {
+    "Id": 464,
+    "RecType": "DRUG",
+    "Date": "2020-03-11T07:30:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 471,
+    "RecType": "DRUG",
+    "Date": "2020-03-12T07:29:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 472,
+    "RecType": "FOOD",
+    "Date": "2020-03-12T09:15:00",
+    "Value": 0,
+    "AdditionalData": "3 bizcochos, collet bombom del diso, 14 pesos menos",
+    "Glucose": 0
+  },
+  {
+    "Id": 1046,
+    "RecType": "GLUC",
+    "Date": "2020-03-15T11:12:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 96
+  },
+  {
+    "Id": 1047,
+    "RecType": "GLUC",
+    "Date": "2020-03-16T09:28:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 112
+  },
+  {
+    "Id": 1048,
+    "RecType": "GLUC",
+    "Date": "2020-03-17T09:35:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 125
+  },
+  {
+    "Id": 486,
+    "RecType": "FOOD",
+    "Date": "2020-03-17T09:41:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 487,
+    "RecType": "DRUG",
+    "Date": "2020-03-17T09:41:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 488,
+    "RecType": "FOOD",
+    "Date": "2020-03-18T09:15:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, cafe",
+    "Glucose": 0
+  },
+  {
+    "Id": 1049,
+    "RecType": "GLUC",
+    "Date": "2020-03-18T09:24:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 117
+  },
+  {
+    "Id": 489,
+    "RecType": "DRUG",
+    "Date": "2020-03-18T09:45:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 492,
+    "RecType": "FOOD",
+    "Date": "2020-03-19T09:00:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1051,
+    "RecType": "GLUC",
+    "Date": "2020-03-19T09:47:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 138
+  },
+  {
+    "Id": 493,
+    "RecType": "FOOD",
+    "Date": "2020-03-20T09:15:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chicolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 494,
+    "RecType": "DRUG",
+    "Date": "2020-03-20T09:15:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 1052,
+    "RecType": "GLUC",
+    "Date": "2020-03-20T09:35:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 108
+  },
+  {
+    "Id": 1053,
+    "RecType": "GLUC",
+    "Date": "2020-03-21T10:30:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 120
+  },
+  {
+    "Id": 1055,
+    "RecType": "GLUC",
+    "Date": "2020-03-23T07:21:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 110
+  },
+  {
+    "Id": 503,
+    "RecType": "FOOD",
+    "Date": "2020-03-23T07:34:00",
+    "Value": 0,
+    "AdditionalData": "2 huevis, chicolight, pan con wyesi crema",
+    "Glucose": 0
+  },
+  {
+    "Id": 1057,
+    "RecType": "GLUC",
+    "Date": "2020-03-25T08:44:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 108
+  },
+  {
+    "Id": 509,
+    "RecType": "FOOD",
+    "Date": "2020-03-25T09:00:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan con queso crema",
+    "Glucose": 0
+  },
+  {
+    "Id": 510,
+    "RecType": "DRUG",
+    "Date": "2020-03-25T09:00:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 513,
+    "RecType": "FOOD",
+    "Date": "2020-03-26T09:20:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1058,
+    "RecType": "GLUC",
+    "Date": "2020-03-26T09:20:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 126
+  },
+  {
+    "Id": 1059,
+    "RecType": "GLUC",
+    "Date": "2020-03-27T08:28:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 131
+  },
+  {
+    "Id": 1060,
+    "RecType": "GLUC",
+    "Date": "2020-03-28T08:41:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 127
+  },
+  {
+    "Id": 519,
+    "RecType": "FOOD",
+    "Date": "2020-03-28T08:42:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1061,
+    "RecType": "GLUC",
+    "Date": "2020-03-29T09:59:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 123
+  },
+  {
+    "Id": 1063,
+    "RecType": "GLUC",
+    "Date": "2020-03-30T08:56:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 135
+  },
+  {
+    "Id": 528,
+    "RecType": "FOOD",
+    "Date": "2020-03-30T08:57:00",
+    "Value": 0,
+    "AdditionalData": "2 hyevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 1065,
+    "RecType": "GLUC",
+    "Date": "2020-03-31T10:13:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 127
+  },
+  {
+    "Id": 535,
+    "RecType": "FOOD",
+    "Date": "2020-04-01T09:00:00",
+    "Value": 0,
+    "AdditionalData": "2 huevis, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1067,
+    "RecType": "GLUC",
+    "Date": "2020-04-01T09:34:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 128
+  },
+  {
+    "Id": 536,
+    "RecType": "DRUG",
+    "Date": "2020-04-01T10:12:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 1069,
+    "RecType": "GLUC",
+    "Date": "2020-04-02T08:39:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 105
+  },
+  {
+    "Id": 1070,
+    "RecType": "GLUC",
+    "Date": "2020-04-03T08:30:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 111
+  },
+  {
+    "Id": 542,
+    "RecType": "FOOD",
+    "Date": "2020-04-03T08:31:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocilight",
+    "Glucose": 0
+  },
+  {
+    "Id": 543,
+    "RecType": "DRUG",
+    "Date": "2020-04-03T08:31:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 1072,
+    "RecType": "GLUC",
+    "Date": "2020-04-04T11:04:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 111
+  },
+  {
+    "Id": 1073,
+    "RecType": "GLUC",
+    "Date": "2020-04-05T10:23:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 120
+  },
+  {
+    "Id": 1074,
+    "RecType": "GLUC",
+    "Date": "2020-04-06T08:50:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 114
+  },
+  {
+    "Id": 552,
+    "RecType": "FOOD",
+    "Date": "2020-04-06T09:00:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 553,
+    "RecType": "DRUG",
+    "Date": "2020-04-06T09:00:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 1075,
+    "RecType": "GLUC",
+    "Date": "2020-04-07T08:48:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 122
+  },
+  {
+    "Id": 1076,
+    "RecType": "GLUC",
+    "Date": "2020-04-08T08:44:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 105
+  },
+  {
+    "Id": 559,
+    "RecType": "FOOD",
+    "Date": "2020-04-09T08:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, choco toddy, leche, banana",
+    "Glucose": 0
+  },
+  {
+    "Id": 560,
+    "RecType": "DRUG",
+    "Date": "2020-04-09T08:30:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 564,
+    "RecType": "FOOD",
+    "Date": "2020-04-10T08:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, pan frances, leche descr, banana",
+    "Glucose": 0
+  },
+  {
+    "Id": 565,
+    "RecType": "DRUG",
+    "Date": "2020-04-10T08:30:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 1078,
+    "RecType": "GLUC",
+    "Date": "2020-04-28T08:26:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 137
+  },
+  {
+    "Id": 566,
+    "RecType": "FOOD",
+    "Date": "2020-04-29T08:30:00",
+    "Value": 0,
+    "AdditionalData": "2 hievos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 567,
+    "RecType": "DRUG",
+    "Date": "2020-04-29T08:30:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 1080,
+    "RecType": "GLUC",
+    "Date": "2020-04-29T08:50:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 151
+  },
+  {
+    "Id": 570,
+    "RecType": "FOOD",
+    "Date": "2020-04-30T09:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos,  chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 571,
+    "RecType": "DRUG",
+    "Date": "2020-04-30T09:30:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 1082,
+    "RecType": "GLUC",
+    "Date": "2020-04-30T09:48:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 152
+  },
+  {
+    "Id": 572,
+    "RecType": "DRUG",
+    "Date": "2020-05-01T09:49:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 573,
+    "RecType": "FOOD",
+    "Date": "2020-05-01T09:49:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos. Chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1084,
+    "RecType": "GLUC",
+    "Date": "2020-05-01T09:50:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 126
+  },
+  {
+    "Id": 1085,
+    "RecType": "GLUC",
+    "Date": "2020-05-02T10:23:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 155
+  },
+  {
+    "Id": 575,
+    "RecType": "DRUG",
+    "Date": "2020-05-02T10:24:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1087,
+    "RecType": "GLUC",
+    "Date": "2020-05-03T10:34:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 134
+  },
+  {
+    "Id": 584,
+    "RecType": "FOOD",
+    "Date": "2020-05-04T08:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos con jamon. Chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 585,
+    "RecType": "DRUG",
+    "Date": "2020-05-04T08:30:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 583,
+    "RecType": "DRUG",
+    "Date": "2020-05-04T08:42:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1089,
+    "RecType": "GLUC",
+    "Date": "2020-05-04T08:43:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 146
+  },
+  {
+    "Id": 586,
+    "RecType": "DRUG",
+    "Date": "2020-05-05T08:38:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 587,
+    "RecType": "FOOD",
+    "Date": "2020-05-05T08:38:00",
+    "Value": 0,
+    "AdditionalData": "2huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1090,
+    "RecType": "GLUC",
+    "Date": "2020-05-05T08:39:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 127
+  },
+  {
+    "Id": 1092,
+    "RecType": "GLUC",
+    "Date": "2020-05-06T07:48:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 141
+  },
+  {
+    "Id": 594,
+    "RecType": "FOOD",
+    "Date": "2020-05-07T08:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, jamon, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 595,
+    "RecType": "DRUG",
+    "Date": "2020-05-07T08:30:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 591,
+    "RecType": "DRUG",
+    "Date": "2020-05-07T09:21:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1094,
+    "RecType": "GLUC",
+    "Date": "2020-05-07T09:22:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 103
+  },
+  {
+    "Id": 1095,
+    "RecType": "GLUC",
+    "Date": "2020-05-08T08:50:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 119
+  },
+  {
+    "Id": 601,
+    "RecType": "DRUG",
+    "Date": "2020-05-08T08:52:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 602,
+    "RecType": "FOOD",
+    "Date": "2020-05-08T08:52:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, jamon, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1098,
+    "RecType": "GLUC",
+    "Date": "2020-05-09T10:52:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 138
+  },
+  {
+    "Id": 607,
+    "RecType": "FOOD",
+    "Date": "2020-05-10T11:24:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, salchicha, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1099,
+    "RecType": "GLUC",
+    "Date": "2020-05-10T11:25:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 135
+  },
+  {
+    "Id": 1100,
+    "RecType": "GLUC",
+    "Date": "2020-05-11T11:51:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 138
+  },
+  {
+    "Id": 1101,
+    "RecType": "GLUC",
+    "Date": "2020-05-13T11:01:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 133
+  },
+  {
+    "Id": 1103,
+    "RecType": "GLUC",
+    "Date": "2020-05-26T07:37:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 188
+  },
+  {
+    "Id": 609,
+    "RecType": "FOOD",
+    "Date": "2020-05-26T08:01:00",
+    "Value": 0,
+    "AdditionalData": "2huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 610,
+    "RecType": "DRUG",
+    "Date": "2020-05-26T08:02:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 612,
+    "RecType": "DRUG",
+    "Date": "2020-05-27T07:31:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1105,
+    "RecType": "GLUC",
+    "Date": "2020-05-27T07:31:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 156
+  },
+  {
+    "Id": 615,
+    "RecType": "DRUG",
+    "Date": "2020-05-28T07:23:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 616,
+    "RecType": "FOOD",
+    "Date": "2020-05-28T07:23:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1107,
+    "RecType": "GLUC",
+    "Date": "2020-05-28T07:24:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 135
+  },
+  {
+    "Id": 622,
+    "RecType": "DRUG",
+    "Date": "2020-05-29T07:50:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1110,
+    "RecType": "GLUC",
+    "Date": "2020-05-29T07:51:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 144
+  },
+  {
+    "Id": 625,
+    "RecType": "DRUG",
+    "Date": "2020-05-30T11:00:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1112,
+    "RecType": "GLUC",
+    "Date": "2020-05-30T11:01:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 138
+  },
+  {
+    "Id": 628,
+    "RecType": "FOOD",
+    "Date": "2020-06-01T07:50:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 1115,
+    "RecType": "GLUC",
+    "Date": "2020-06-01T07:51:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 151
+  },
+  {
+    "Id": 632,
+    "RecType": "DRUG",
+    "Date": "2020-06-02T08:45:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 633,
+    "RecType": "FOOD",
+    "Date": "2020-06-02T08:45:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1117,
+    "RecType": "GLUC",
+    "Date": "2020-06-02T09:13:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 161
+  },
+  {
+    "Id": 1118,
+    "RecType": "GLUC",
+    "Date": "2020-06-03T08:35:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 141
+  },
+  {
+    "Id": 637,
+    "RecType": "FOOD",
+    "Date": "2020-06-03T08:38:00",
+    "Value": 0,
+    "AdditionalData": "2huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1120,
+    "RecType": "GLUC",
+    "Date": "2020-06-04T08:07:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 128
+  },
+  {
+    "Id": 641,
+    "RecType": "DRUG",
+    "Date": "2020-06-04T08:24:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 642,
+    "RecType": "FOOD",
+    "Date": "2020-06-04T08:24:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 644,
+    "RecType": "DRUG",
+    "Date": "2020-06-05T09:18:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1122,
+    "RecType": "GLUC",
+    "Date": "2020-06-05T09:18:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 147
+  },
+  {
+    "Id": 645,
+    "RecType": "FOOD",
+    "Date": "2020-06-06T09:26:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocoligth",
+    "Glucose": 0
+  },
+  {
+    "Id": 1123,
+    "RecType": "GLUC",
+    "Date": "2020-06-06T09:27:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 173
+  },
+  {
+    "Id": 1125,
+    "RecType": "GLUC",
+    "Date": "2020-06-07T11:58:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 146
+  },
+  {
+    "Id": 650,
+    "RecType": "DRUG",
+    "Date": "2020-06-07T11:59:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1127,
+    "RecType": "GLUC",
+    "Date": "2020-06-08T08:07:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 152
+  },
+  {
+    "Id": 656,
+    "RecType": "FOOD",
+    "Date": "2020-06-08T08:08:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 657,
+    "RecType": "DRUG",
+    "Date": "2020-06-08T08:08:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 661,
+    "RecType": "DRUG",
+    "Date": "2020-06-09T08:29:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 662,
+    "RecType": "FOOD",
+    "Date": "2020-06-09T08:29:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1129,
+    "RecType": "GLUC",
+    "Date": "2020-06-09T08:30:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 129
+  },
+  {
+    "Id": 1130,
+    "RecType": "GLUC",
+    "Date": "2020-06-10T08:46:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 145
+  },
+  {
+    "Id": 665,
+    "RecType": "DRUG",
+    "Date": "2020-06-10T08:47:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 666,
+    "RecType": "FOOD",
+    "Date": "2020-06-10T08:47:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 669,
+    "RecType": "FOOD",
+    "Date": "2020-06-11T08:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 1131,
+    "RecType": "GLUC",
+    "Date": "2020-06-11T08:43:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 142
+  },
+  {
+    "Id": 672,
+    "RecType": "DRUG",
+    "Date": "2020-06-12T07:58:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 673,
+    "RecType": "FOOD",
+    "Date": "2020-06-12T07:58:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1132,
+    "RecType": "GLUC",
+    "Date": "2020-06-12T07:59:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 154
+  },
+  {
+    "Id": 1133,
+    "RecType": "GLUC",
+    "Date": "2020-06-13T09:32:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 181
+  },
+  {
+    "Id": 677,
+    "RecType": "FOOD",
+    "Date": "2020-06-13T09:33:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1135,
+    "RecType": "GLUC",
+    "Date": "2020-06-14T09:49:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 194
+  },
+  {
+    "Id": 685,
+    "RecType": "FOOD",
+    "Date": "2020-06-14T09:50:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 687,
+    "RecType": "FOOD",
+    "Date": "2020-06-14T11:54:00",
+    "Value": 0,
+    "AdditionalData": "Papaas ruffles 90 gr,  cerveza patricia .4 lt",
+    "Glucose": 0
+  },
+  {
+    "Id": 1136,
+    "RecType": "GLUC",
+    "Date": "2020-06-15T10:55:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 145
+  },
+  {
+    "Id": 692,
+    "RecType": "DRUG",
+    "Date": "2020-06-16T08:16:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1138,
+    "RecType": "GLUC",
+    "Date": "2020-06-16T08:17:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 141
+  },
+  {
+    "Id": 693,
+    "RecType": "FOOD",
+    "Date": "2020-06-16T08:21:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 696,
+    "RecType": "FOOD",
+    "Date": "2020-06-17T08:10:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1140,
+    "RecType": "GLUC",
+    "Date": "2020-06-17T08:11:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 151
+  },
+  {
+    "Id": 702,
+    "RecType": "DRUG",
+    "Date": "2020-06-18T08:00:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1142,
+    "RecType": "GLUC",
+    "Date": "2020-06-18T08:08:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 128
+  },
+  {
+    "Id": 1143,
+    "RecType": "GLUC",
+    "Date": "2020-06-19T09:02:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 140
+  },
+  {
+    "Id": 705,
+    "RecType": "DRUG",
+    "Date": "2020-06-19T09:03:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 708,
+    "RecType": "FOOD",
+    "Date": "2020-06-20T09:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1145,
+    "RecType": "GLUC",
+    "Date": "2020-06-20T10:03:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 158
+  },
+  {
+    "Id": 714,
+    "RecType": "FOOD",
+    "Date": "2020-06-21T10:45:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1146,
+    "RecType": "GLUC",
+    "Date": "2020-06-21T10:52:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 166
+  },
+  {
+    "Id": 1147,
+    "RecType": "GLUC",
+    "Date": "2020-06-22T08:45:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 146
+  },
+  {
+    "Id": 718,
+    "RecType": "DRUG",
+    "Date": "2020-06-22T08:50:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 719,
+    "RecType": "FOOD",
+    "Date": "2020-06-22T08:50:00",
+    "Value": 0,
+    "AdditionalData": "2huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 723,
+    "RecType": "DRUG",
+    "Date": "2020-06-24T07:40:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 724,
+    "RecType": "FOOD",
+    "Date": "2020-06-24T07:40:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 737,
+    "RecType": "DRUG",
+    "Date": "2020-06-26T02:00:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 735,
+    "RecType": "FOOD",
+    "Date": "2020-06-26T07:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 736,
+    "RecType": "DRUG",
+    "Date": "2020-06-26T07:30:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1151,
+    "RecType": "GLUC",
+    "Date": "2020-06-26T08:30:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 148
+  },
+  {
+    "Id": 739,
+    "RecType": "DRUG",
+    "Date": "2020-06-27T11:30:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 740,
+    "RecType": "FOOD",
+    "Date": "2020-06-27T11:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 748,
+    "RecType": "DRUG",
+    "Date": "2020-06-29T09:49:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1155,
+    "RecType": "GLUC",
+    "Date": "2020-06-29T09:49:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 157
+  },
+  {
+    "Id": 1157,
+    "RecType": "GLUC",
+    "Date": "2020-06-30T10:01:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 170
+  },
+  {
+    "Id": 754,
+    "RecType": "DRUG",
+    "Date": "2020-07-01T08:20:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1159,
+    "RecType": "GLUC",
+    "Date": "2020-07-01T08:21:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 156
+  },
+  {
+    "Id": 762,
+    "RecType": "DRUG",
+    "Date": "2020-07-02T10:20:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1160,
+    "RecType": "GLUC",
+    "Date": "2020-07-02T10:21:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 137
+  },
+  {
+    "Id": 767,
+    "RecType": "DRUG",
+    "Date": "2020-07-03T11:09:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 768,
+    "RecType": "FOOD",
+    "Date": "2020-07-03T11:09:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1162,
+    "RecType": "GLUC",
+    "Date": "2020-07-03T11:10:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 131
+  },
+  {
+    "Id": 773,
+    "RecType": "DRUG",
+    "Date": "2020-07-04T11:39:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 774,
+    "RecType": "FOOD",
+    "Date": "2020-07-04T11:39:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan pequeño",
+    "Glucose": 0
+  },
+  {
+    "Id": 1164,
+    "RecType": "GLUC",
+    "Date": "2020-07-04T11:39:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 133
+  },
+  {
+    "Id": 775,
+    "RecType": "FOOD",
+    "Date": "2020-07-05T11:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 778,
+    "RecType": "FOOD",
+    "Date": "2020-07-06T07:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 1166,
+    "RecType": "GLUC",
+    "Date": "2020-07-06T07:52:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 143
+  },
+  {
+    "Id": 786,
+    "RecType": "DRUG",
+    "Date": "2020-07-08T10:30:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 787,
+    "RecType": "FOOD",
+    "Date": "2020-07-08T10:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 790,
+    "RecType": "DRUG",
+    "Date": "2020-07-09T09:18:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 791,
+    "RecType": "FOOD",
+    "Date": "2020-07-09T09:18:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, choocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 1171,
+    "RecType": "GLUC",
+    "Date": "2020-07-09T09:19:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 146
+  },
+  {
+    "Id": 1172,
+    "RecType": "GLUC",
+    "Date": "2020-07-10T08:23:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 138
+  },
+  {
+    "Id": 796,
+    "RecType": "FOOD",
+    "Date": "2020-07-10T08:29:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 797,
+    "RecType": "DRUG",
+    "Date": "2020-07-10T08:29:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1174,
+    "RecType": "GLUC",
+    "Date": "2020-07-13T08:23:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 135
+  },
+  {
+    "Id": 803,
+    "RecType": "FOOD",
+    "Date": "2020-07-13T08:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos. Chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 814,
+    "RecType": "FOOD",
+    "Date": "2020-07-14T00:30:00",
+    "Value": 0,
+    "AdditionalData": "Cerveza lata budweiser, pPas crunch 90 gr",
+    "Glucose": 0
+  },
+  {
+    "Id": 1175,
+    "RecType": "GLUC",
+    "Date": "2020-07-14T09:25:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 168
+  },
+  {
+    "Id": 1176,
+    "RecType": "GLUC",
+    "Date": "2020-07-15T10:48:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 159
+  },
+  {
+    "Id": 820,
+    "RecType": "FOOD",
+    "Date": "2020-07-16T09:32:00",
+    "Value": 0,
+    "AdditionalData": "W huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 1178,
+    "RecType": "GLUC",
+    "Date": "2020-07-16T09:32:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 130
+  },
+  {
+    "Id": 830,
+    "RecType": "FOOD",
+    "Date": "2020-07-20T08:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 1183,
+    "RecType": "GLUC",
+    "Date": "2020-07-20T09:39:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 145
+  },
+  {
+    "Id": 1185,
+    "RecType": "GLUC",
+    "Date": "2020-07-21T09:33:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 149
+  },
+  {
+    "Id": 835,
+    "RecType": "FOOD",
+    "Date": "2020-07-22T08:50:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 1187,
+    "RecType": "GLUC",
+    "Date": "2020-07-22T09:09:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 135
+  },
+  {
+    "Id": 841,
+    "RecType": "DRUG",
+    "Date": "2020-07-23T09:15:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 842,
+    "RecType": "FOOD",
+    "Date": "2020-07-23T09:15:00",
+    "Value": 0,
+    "AdditionalData": "W huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 1190,
+    "RecType": "GLUC",
+    "Date": "2020-07-23T09:16:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 134
+  },
+  {
+    "Id": 1192,
+    "RecType": "GLUC",
+    "Date": "2020-07-24T09:12:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 128
+  },
+  {
+    "Id": 845,
+    "RecType": "FOOD",
+    "Date": "2020-07-24T09:22:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 1195,
+    "RecType": "GLUC",
+    "Date": "2020-07-27T09:15:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 145
+  },
+  {
+    "Id": 856,
+    "RecType": "FOOD",
+    "Date": "2020-07-31T08:00:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, pan, chorizo, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 855,
+    "RecType": "FOOD",
+    "Date": "2020-07-31T11:20:00",
+    "Value": 0,
+    "AdditionalData": "4 bizcochos, collet bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 1196,
+    "RecType": "GLUC",
+    "Date": "2020-08-11T09:19:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 178
+  },
+  {
+    "Id": 857,
+    "RecType": "FOOD",
+    "Date": "2020-08-11T09:27:00",
+    "Value": 0,
+    "AdditionalData": "2 uuevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 858,
+    "RecType": "DRUG",
+    "Date": "2020-08-11T09:27:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1197,
+    "RecType": "GLUC",
+    "Date": "2020-08-12T08:39:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 189
+  },
+  {
+    "Id": 862,
+    "RecType": "DRUG",
+    "Date": "2020-08-12T08:41:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 863,
+    "RecType": "FOOD",
+    "Date": "2020-08-12T08:41:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 866,
+    "RecType": "DRUG",
+    "Date": "2020-08-13T08:45:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 867,
+    "RecType": "FOOD",
+    "Date": "2020-08-13T08:45:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 1200,
+    "RecType": "GLUC",
+    "Date": "2020-08-13T08:46:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 133
+  },
+  {
+    "Id": 1202,
+    "RecType": "GLUC",
+    "Date": "2020-08-14T08:16:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 156
+  },
+  {
+    "Id": 1203,
+    "RecType": "GLUC",
+    "Date": "2020-08-15T08:39:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 165
+  },
+  {
+    "Id": 868,
+    "RecType": "DRUG",
+    "Date": "2020-08-15T08:42:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 869,
+    "RecType": "FOOD",
+    "Date": "2020-08-15T08:42:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chicolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 875,
+    "RecType": "FOOD",
+    "Date": "2020-08-16T09:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 1204,
+    "RecType": "GLUC",
+    "Date": "2020-08-16T09:46:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 187
+  },
+  {
+    "Id": 1206,
+    "RecType": "GLUC",
+    "Date": "2020-08-17T08:03:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 130
+  },
+  {
+    "Id": 1209,
+    "RecType": "GLUC",
+    "Date": "2020-08-18T09:56:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 138
+  },
+  {
+    "Id": 881,
+    "RecType": "DRUG",
+    "Date": "2020-08-19T08:33:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1212,
+    "RecType": "GLUC",
+    "Date": "2020-08-19T08:34:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 141
+  },
+  {
+    "Id": 884,
+    "RecType": "FOOD",
+    "Date": "2020-08-20T01:30:00",
+    "Value": 0,
+    "AdditionalData": "Medialuna jamon y quezo, cic light",
+    "Glucose": 0
+  },
+  {
+    "Id": 883,
+    "RecType": "DRUG",
+    "Date": "2020-08-20T10:05:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1215,
+    "RecType": "GLUC",
+    "Date": "2020-08-20T10:06:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 131
+  },
+  {
+    "Id": 887,
+    "RecType": "DRUG",
+    "Date": "2020-08-21T07:50:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1216,
+    "RecType": "GLUC",
+    "Date": "2020-08-21T07:51:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 145
+  },
+  {
+    "Id": 892,
+    "RecType": "FOOD",
+    "Date": "2020-08-26T09:30:00",
+    "Value": 0,
+    "AdditionalData": "6 bizcochos, collet bombom",
+    "Glucose": 0
+  },
+  {
+    "Id": 894,
+    "RecType": "DRUG",
+    "Date": "2020-08-26T09:30:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 897,
+    "RecType": "FOOD",
+    "Date": "2020-08-27T09:30:00",
+    "Value": 0,
+    "AdditionalData": "2 empanadas caresse, chocolight, 1 banana",
+    "Glucose": 0
+  },
+  {
+    "Id": 898,
+    "RecType": "DRUG",
+    "Date": "2020-08-27T09:30:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1219,
+    "RecType": "GLUC",
+    "Date": "2020-08-28T09:45:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 210
+  },
+  {
+    "Id": 1220,
+    "RecType": "GLUC",
+    "Date": "2020-08-29T11:29:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 255
+  },
+  {
+    "Id": 1222,
+    "RecType": "GLUC",
+    "Date": "2020-08-31T09:07:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 166
+  },
+  {
+    "Id": 904,
+    "RecType": "FOOD",
+    "Date": "2020-09-01T00:30:00",
+    "Value": 0,
+    "AdditionalData": "Medialuna jamon y queso, coc light",
+    "Glucose": 0
+  },
+  {
+    "Id": 1223,
+    "RecType": "GLUC",
+    "Date": "2020-09-01T09:02:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 137
+  },
+  {
+    "Id": 910,
+    "RecType": "FOOD",
+    "Date": "2020-09-01T10:21:00",
+    "Value": 0,
+    "AdditionalData": "Carbne, pure, cocalighth",
+    "Glucose": 0
+  },
+  {
+    "Id": 911,
+    "RecType": "DRUG",
+    "Date": "2020-09-01T10:21:00",
+    "Value": 0,
+    "AdditionalData": "DIAF",
+    "Glucose": 0
+  },
+  {
+    "Id": 908,
+    "RecType": "DRUG",
+    "Date": "2020-09-02T10:19:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1225,
+    "RecType": "GLUC",
+    "Date": "2020-09-02T10:21:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 149
+  },
+  {
+    "Id": 1227,
+    "RecType": "GLUC",
+    "Date": "2020-09-03T10:16:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 151
+  },
+  {
+    "Id": 922,
+    "RecType": "DRUG",
+    "Date": "2020-09-04T10:22:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1229,
+    "RecType": "GLUC",
+    "Date": "2020-09-04T10:23:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 157
+  },
+  {
+    "Id": 925,
+    "RecType": "DRUG",
+    "Date": "2020-09-05T11:00:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1230,
+    "RecType": "GLUC",
+    "Date": "2020-09-05T11:43:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 154
+  },
+  {
+    "Id": 1233,
+    "RecType": "GLUC",
+    "Date": "2020-09-07T09:24:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 163
+  },
+  {
+    "Id": 936,
+    "RecType": "FOOD",
+    "Date": "2020-09-08T09:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1234,
+    "RecType": "GLUC",
+    "Date": "2020-09-08T10:27:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 178
+  },
+  {
+    "Id": 943,
+    "RecType": "FOOD",
+    "Date": "2020-09-09T09:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1236,
+    "RecType": "GLUC",
+    "Date": "2020-09-09T09:32:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 154
+  },
+  {
+    "Id": 948,
+    "RecType": "DRUG",
+    "Date": "2020-09-10T09:30:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 949,
+    "RecType": "FOOD",
+    "Date": "2020-09-10T09:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chicolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1238,
+    "RecType": "GLUC",
+    "Date": "2020-09-10T09:59:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 182
+  },
+  {
+    "Id": 952,
+    "RecType": "DRUG",
+    "Date": "2020-09-11T11:37:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 953,
+    "RecType": "FOOD",
+    "Date": "2020-09-11T11:37:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocilight",
+    "Glucose": 0
+  },
+  {
+    "Id": 1241,
+    "RecType": "GLUC",
+    "Date": "2020-09-11T11:38:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 156
+  },
+  {
+    "Id": 956,
+    "RecType": "DRUG",
+    "Date": "2020-09-12T11:03:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1244,
+    "RecType": "GLUC",
+    "Date": "2020-09-12T11:04:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 140
+  },
+  {
+    "Id": 960,
+    "RecType": "FOOD",
+    "Date": "2020-09-14T09:45:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, pan, chocolight",
+    "Glucose": 0
+  },
+  {
+    "Id": 961,
+    "RecType": "DRUG",
+    "Date": "2020-09-14T09:45:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 1249,
+    "RecType": "GLUC",
+    "Date": "2020-09-15T09:54:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 149
+  },
+  {
+    "Id": 969,
+    "RecType": "FOOD",
+    "Date": "2020-09-16T10:30:00",
+    "Value": 0,
+    "AdditionalData": "2 huevos, chocolight. Pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 970,
+    "RecType": "DRUG",
+    "Date": "2020-09-16T10:30:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 973,
+    "RecType": "DRUG",
+    "Date": "2020-09-17T07:59:00",
+    "Value": 0,
+    "AdditionalData": "DIARIS",
+    "Glucose": 0
+  },
+  {
+    "Id": 974,
+    "RecType": "FOOD",
+    "Date": "2020-09-17T07:59:00",
+    "Value": 0,
+    "AdditionalData": "2 huevis, chocolight, pan",
+    "Glucose": 0
+  },
+  {
+    "Id": 1254,
+    "RecType": "GLUC",
+    "Date": "2020-09-17T08:00:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 124
+  },
+  {
+    "Id": 1256,
+    "RecType": "GLUC",
+    "Date": "2020-09-18T08:32:00",
+    "Value": 0,
+    "AdditionalData": null,
+    "Glucose": 123
+  }
+]

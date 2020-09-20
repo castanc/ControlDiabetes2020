@@ -1,0 +1,95 @@
+1	FOOD	2020-07-01	13:44	Carne,npapas, leche descr	
+2	DRUG	2020-07-01	13:44	DIAF	
+3	DRUG	2020-07-01	13:44	NOVONORM	
+4	FOOD	2020-07-01	21:33	Milanesa pescado, papas, levhe descr	
+5	DRUG	2020-07-01	21:34	DIAF	
+6	DRUG	2020-07-02	10:20	DIARIS	
+7	GLUC	2020-07-02	10:20	137	
+8	FOOD	2020-07-01	22:30	Cerveza patricia lata, papas rusticas 90 gr	
+9	FOOD	2020-07-02	19:10	112	
+10	FOOD	2020-07-02	20:45	Espaguetis al tuco, pan, leche descr	
+11	DRUG	2020-07-02	20:45	DIAF	
+12	DRUG	2020-07-02	20:45	NOVONORM	
+13	GLUC	2020-07-03	11:09	131	
+14	DRUG	2020-07-03	11:09	DIARIS	
+15	FOOD	2020-07-03	11:09	2 huevos, chocolight	
+16	GLUC	2020-07-03	21:24	123	
+17	EXE	2020-07-03	21:24		
+18	FOOD	2020-07-03	22:07	Milanesa pescado, papa al horno,coca light	
+19	DRUG	2020-07-03	22:07	DIAF	
+20	DRUG	2020-07-03	22:07	NOVONORM	
+21	GLUC	2020-07-04	11:38	133	
+22	FOOD	2020-07-03	23:38	Cerveza patricia litro, papas lays 150 gr, queso mozarella 200 gr	
+23	DRUG	2020-07-04	11:39	DIARIS	
+24	FOOD	2020-07-04	11:39	2 huevos, chocolight, pan pequeño	
+25	GLUC	2020-07-05	17:23	135	
+26	FOOD	2020-07-05	11:30	2 huevos, chocolight, pan	
+27	FOOD	2020-07-05	21:25	Milanesa pescado, pure, leche	
+28	DRUG	2020-07-05	21:25	DIAF	
+29	DRUG	2020-07-05	21:25	DIAF	
+30	GLUC	2020-07-06	7:51	143	
+31	FOOD	2020-07-06	7:30	2 huevos, chocolight, pan	
+32	FOOD	2020-07-06	14:19	Pechuga pollo , arroz, coca light	
+33	DRUG	2020-07-06	14:19	DIAF	
+34	FOOD	2020-07-05	23:30	Cerveza patricia lata, papas ruffles 95 gr, queso mozarella 168 gr	
+35	GLUC	2020-07-06	17:28	135	
+36	FOOD	2020-07-06	17:31	Empanada jamon y queso, coca light	
+37	GLUC	2020-07-06	21:26	118	
+38	FOOD	2020-07-06	21:38	Milanesa pescado, pure, coca lught	
+39	DRUG	2020-07-06	21:38	DIAF	
+40	GLUC	2020-07-08	21:33	96	
+41	EXE	2020-07-08	21:33	12000	00:400:
+42	DRUG	2020-07-08	10:30	DIARIS	
+43	FOOD	2020-07-08	10:30	2 huevos, chocolight, pan	
+44	DRUG	2020-07-08	22:00	DIAF	
+45	FOOD	2020-07-08	22:00	Milanesa pescaddo, papas, coca light	
+46	GLUC	2020-07-09	9:18	146	
+47	DRUG	2020-07-09	9:18	DIARIS	
+48	FOOD	2020-07-09	9:18	2 huevos, choocolight, pan	
+49	FOOD	2020-07-09	14:34	Carne, arroz, cocalight	
+50	DRUG	2020-07-09	14:34	DIAF	
+51	FOOD	2020-07-09	20:15	Milanesa carne, pure, pan, coca light	
+52	DRUG	2020-07-09	20:15	DIAF	
+53	GLUC	2020-07-10	8:29	138	
+54	FOOD	2020-07-10	8:29	2 huevos, chocolight, pan	
+55	DRUG	2020-07-10	8:29	DIARIS	
+56	GLUC	2020-07-11	17:31	107	
+57	DRUG	2020-07-12	12:00	DIARIS	
+58	FOOD	2020-07-12	12:00	2 huevos, chocolight, pan	
+59	FOOD	2020-07-11	23:29	1 cerveza patricia 1 litro, papas lays 150 gr, queso mozarella 300 gr	
+60	FOOD	2020-07-11	20:30	Milanesa carne, pure, leche descr	
+61	FOOD	2020-07-11	19:30	Galletas toddy, leche descr	
+62	GLUC	2020-07-13	8:30	135	
+63	FOOD	2020-07-13	8:30	2 huevos. Chocolight, pan	
+64	FOOD	2020-07-13	13:50	Milanesa carne, pure, leche descr	
+65	DRUG	2020-07-13	13:50	DIAF	
+66	FOOD	2020-07-13	19:30	3 bizcochos, collet bombom	
+67	GLUC	2020-07-14	9:23	168	
+68	FOOD	2020-07-13	21:00	Milanesa pescado, chocoligth, pan	
+69	FOOD	2020-07-14	21:00	Milanesa pescado, chocoligth, pan	
+70	DRUG	2020-07-14	21:00	DIARIS	
+71	EXE	2020-07-13	19:00	12000	0:40:00
+72	FOOD	2020-07-13	19:00	3 bizcochos, collet bombom	
+73	GLUC	2020-07-15	17:56	120	
+74	FOOD	2020-07-15	21:20	Milanesa carne, pure, pan, coca light	
+75	DRUG	2020-07-15	21:20	DIAF	
+76	DRUG	2020-07-15	21:20	GLIMEPIRIDA	
+77	FOOD	2020-07-14	0:30	Cerveza lata budweiser, pPas crunch 90 gr	
+78	FOOD	2020-07-14	20:30	Coca light, papas crunch 90 gr, queso mozarela 100 gr	
+79	FOOD	2020-07-14	18:00	Carne molida, pure, limonada	
+80	EXE	2020-07-14	18:00	10600	0:40:00
+81	EXE	2020-07-15	19:00	10600	0:40:00
+82	GLUC	2020-07-16	9:31	130	
+83	FOOD	2020-07-15	22:30	1 cerveza kata patricia, papas ruffles 90 gr	
+84	FOOD	2020-07-16	9:32	W huevos, chocolight, pan	
+85	GLUC	2020-07-17	18:04	103	
+86	GLUC	2020-07-18	12:10	165	
+87	FOOD	2020-07-17	23:30	Cerveza patricia 1 litro, papas 140 gr, wuesomozarella 300 gr	
+88	GLUC	2020-07-19	13:01	149	
+89	FOOD	2020-07-18	22:30	1 cerveza patricia litro, papas lays 150 gr, wyeso mozarella 300 gr	
+90	DRUG	2020-07-18	22:30	DIAF	
+91	DRUG	2020-07-18	22:30	GLIMEPIRIDA	
+92	DRUG	2020-07-19	13:02	DIARIS	
+93	FOOD	2020-07-19	13:02	2 huevos, chocolight, pan	
+94	FOOD	2020-07-19	15:14	Carne, papas rusticas, coca light	
+95	DRUG	2020-07-19	15:14	DIAF	
